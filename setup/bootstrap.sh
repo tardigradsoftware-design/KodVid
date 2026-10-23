@@ -70,19 +70,17 @@ HF=$(npx -y hyperframes --version 2>/dev/null | tail -1)
 
 echo "== 5. KodVid reposu"
 REPO_SRC="$(cd "$SELF_DIR/.." && pwd -P)"
-if [ "$KV_HOME" != "$HOME/.kodvid" ]; then
-  # Repo kota disinda dursun, /home/user/KodVid sadece kisayol olsun
-  if [ ! -d "$KV_HOME/repo/.git" ]; then
-    git clone -q --depth 1 --filter=blob:none --sparse https://github.com/tardigradsoftware-design/KodVid.git "$KV_HOME/repo" \
-      && git -C "$KV_HOME/repo" sparse-checkout set setup catalog/index
-  fi
-  if [ -d "$HOME/KodVid/.git" ] && [ ! -L "$HOME/KodVid" ] && git -C "$HOME/KodVid" remote get-url origin 2>/dev/null | grep -q 'tardigradsoftware-design/KodVid'; then
+# Sadece /opt/kodvid/repo'dan calisan klasik kurulumda: /home/user/KodVid kisayolunu kur.
+# Ajan baska bir yerde (or. bagli GitHub reposunda) calisiyorsa bu adim hicbir seye dokunmaz.
+if [ "$REPO_SRC" = "$KV_HOME/repo" ]; then
+  if [ -d "$HOME/KodVid/.git" ] && [ ! -L "$HOME/KodVid" ] \
+     && git -C "$HOME/KodVid" remote get-url origin 2>/dev/null | grep -qE 'github\.com/tardigradsoftware-design/KodVid(\.git)?$'; then
     rm -rf "$HOME/KodVid" && ok "Eski $HOME/KodVid kopyasi silindi"
   fi
   [ -L "$HOME/KodVid" ] && [ ! -e "$HOME/KodVid" ] && rm -f "$HOME/KodVid"
-  [ -d "$KV_HOME/repo/.git" ] && [ ! -e "$HOME/KodVid" ] && ln -s "$KV_HOME/repo" "$HOME/KodVid"
+  [ ! -e "$HOME/KodVid" ] && ln -s "$KV_HOME/repo" "$HOME/KodVid"
 fi
-[ -L "$HOME/KodVid" ] && ok "$HOME/KodVid -> $(readlink "$HOME/KodVid")" || ok "Repo: $REPO_SRC"
+[ -L "$HOME/KodVid" ] && [ "$REPO_SRC" = "$KV_HOME/repo" ] && ok "$HOME/KodVid -> $(readlink "$HOME/KodVid")" || ok "Repo: $REPO_SRC"
 
 echo "== 6. Kaynaklar"
 ok "CPU: $(nproc) cekirdek, RAM: $(free -h | awk '/Mem:/ {print $2" toplam, "$7" bos"}')"
@@ -91,6 +89,6 @@ ok "/home/user kullanimi: $(du -sh "$HOME" 2>/dev/null | cut -f1), $(find "$HOME
 [ "$(nproc)" -le 2 ] && warn "GPU yok ve cekirdek az: render yaklasik gercek zamanin 2 kati surer"
 
 echo
-if [ "$FAILED" -eq 0 ]; then echo "HAZIR. Her komuttan once: source $HOME/KodVid/setup/env.sh"
+if [ "$FAILED" -eq 0 ]; then echo "HAZIR. Her komuttan once: source $REPO_SRC/setup/env.sh"
 else echo "EKSIK VAR. Yukaridaki [HATA] satirlarini duzeltmeden render etmeyin."; fi
 exit "$FAILED"
