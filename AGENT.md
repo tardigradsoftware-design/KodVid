@@ -85,9 +85,9 @@ Manim and Remotion work too but need heavier setup.
 ## Sandbox rules (from a real test run)
 
 - **Always render through `setup/render.sh`.** `/tmp` is a small memory disk and renders fail with "Low disk space" without it.
-- **Expect about 2x real time.** There is no GPU. A 60 second video takes about 2 minutes. Commands time out after 30 minutes, so run longer renders in the background and poll the log.
+- **Expect about 3x real time for a final render.** There is no GPU. A measured 15 second film with transitions took 48 seconds, so a 60 second video takes about 3 to 4 minutes. Commands time out after 30 minutes, so run longer renders in the background and poll the log.
 - **If a render crashes on memory**, retry with `KODVID_WORKERS=1`.
-- **Narration:** make speech with your own text-to-speech tool. To add it to a video, never use `-shortest`, because it cuts the video to the audio length. Use `-af apad -t <video seconds>` instead, or match the video length to the audio.
+- **Narration:** make speech with your own text-to-speech tool. The local Kokoro model in HyperFrames does not speak Turkish; for Turkish use your own tool or `edge-tts` with a `tr-TR` voice such as `tr-TR-AhmetNeural`. To add it to a video, never use `-shortest`, because it cuts the video to the audio length. Use `-af apad -t <video seconds>` instead, or match the video length to the audio.
 - **Generated images** may not match the requested size. Scale them with `ffmpeg -vf scale=W:H:flags=lanczos`.
 - **Preview** runs on localhost inside the sandbox and the user cannot open it. Deliver the MP4 file, or upload it to Drive and share the link.
 
