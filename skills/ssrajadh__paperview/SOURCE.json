@@ -1,0 +1,13 @@
+{
+  "repo": "ssrajadh/paperview",
+  "url": "https://github.com/ssrajadh/paperview",
+  "sha": "fe91f8bc3cc917e35a4a330af33518b0d1cc28e7",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:41:58.102Z",
+  "skillRoots": [
+    "adapters/claude-code/skills/gen",
+    "adapters/claude-code/skills/setup"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

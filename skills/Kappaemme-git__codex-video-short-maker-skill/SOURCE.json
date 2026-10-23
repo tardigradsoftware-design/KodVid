@@ -1,0 +1,12 @@
+{
+  "repo": "Kappaemme-git/codex-video-short-maker-skill",
+  "url": "https://github.com/Kappaemme-git/codex-video-short-maker-skill",
+  "sha": "70435bb21b08a437fbdacf0231ce1b35a22cb832",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:28.822Z",
+  "skillRoots": [
+    "video-short-maker"
+  ],
+  "files": 4,
+  "droppedByBudget": 0
+}

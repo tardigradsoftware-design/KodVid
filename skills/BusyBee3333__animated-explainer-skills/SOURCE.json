@@ -1,0 +1,15 @@
+{
+  "repo": "BusyBee3333/animated-explainer-skills",
+  "url": "https://github.com/BusyBee3333/animated-explainer-skills",
+  "sha": "c1dd704921b6a7587efd8d611dbbb4838012760c",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:55.036Z",
+  "skillRoots": [
+    "skills/explainer-assets",
+    "skills/explainer-studio",
+    "skills/gsap-explainer",
+    "skills/retention-pass"
+  ],
+  "files": 9,
+  "droppedByBudget": 0
+}

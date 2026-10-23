@@ -1,0 +1,12 @@
+{
+  "repo": "JuneYaooo/cheap-claude-video",
+  "url": "https://github.com/JuneYaooo/cheap-claude-video",
+  "sha": "76666a9773d5635805b0994b3adc1d3e99641cca",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:40:11.380Z",
+  "skillRoots": [
+    "skills/capsule-cinema"
+  ],
+  "files": 3,
+  "droppedByBudget": 0
+}

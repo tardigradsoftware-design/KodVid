@@ -1,0 +1,18 @@
+{
+  "repo": "kangarooking/promo-creator-skills",
+  "url": "https://github.com/kangarooking/promo-creator-skills",
+  "sha": "2d23af9597b2ae37b1e18686f5759eae0c10ac07",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:50.351Z",
+  "skillRoots": [
+    "",
+    "promo-asset-producer",
+    "promo-brief",
+    "promo-editor",
+    "promo-music-maker",
+    "promo-storyboard",
+    "promo-workflow"
+  ],
+  "files": 12,
+  "droppedByBudget": 0
+}

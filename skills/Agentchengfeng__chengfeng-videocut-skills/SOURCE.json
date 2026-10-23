@@ -1,0 +1,19 @@
+{
+  "repo": "Agentchengfeng/chengfeng-videocut-skills",
+  "url": "https://github.com/Agentchengfeng/chengfeng-videocut-skills",
+  "sha": "a33b43e08c34fa8beeb5e78498e852f4e80975a5",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:42:10.722Z",
+  "skillRoots": [
+    "plugins/chengfeng-videocut/skills/chengfeng-check-updates",
+    "plugins/chengfeng-videocut/skills/chengfeng-cut",
+    "plugins/chengfeng-videocut/skills/chengfeng-export",
+    "plugins/chengfeng-videocut/skills/chengfeng-report-bug",
+    "plugins/chengfeng-videocut/skills/chengfeng-subtitle",
+    "plugins/chengfeng-videocut/skills/chengfeng-videocut-workbench",
+    "plugins/chengfeng-videocut/skills/chengfeng-visual",
+    "plugins/chengfeng-videocut/skills/chengfeng-visual/animation-styles/ian-xiaohei-svg-motion"
+  ],
+  "files": 38,
+  "droppedByBudget": 0
+}

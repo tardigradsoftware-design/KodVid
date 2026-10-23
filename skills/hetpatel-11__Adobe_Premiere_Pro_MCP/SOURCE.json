@@ -1,0 +1,14 @@
+{
+  "repo": "hetpatel-11/Adobe_Premiere_Pro_MCP",
+  "url": "https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP",
+  "sha": "4ad1d9515ed80c6e6938c379c1dba872f6823539",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:10.451Z",
+  "skillRoots": [
+    "claude-plugins/premiere-pro-mcp/skills/edit-premiere-project",
+    "plugins/premiere-pro-mcp/skills/edit-premiere-project",
+    "skills/premiere-pro-mcp"
+  ],
+  "files": 3,
+  "droppedByBudget": 0
+}

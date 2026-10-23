@@ -1,0 +1,14 @@
+{
+  "repo": "browser-use/video-use",
+  "url": "https://github.com/browser-use/video-use",
+  "sha": "43cfc566833548093455c9d4a46bd69913b7e552",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:11.553Z",
+  "kind": "skill",
+  "skillRoots": [
+    "",
+    "skills/manim-video"
+  ],
+  "files": 20,
+  "droppedByBudget": 0
+}

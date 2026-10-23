@@ -1,0 +1,26 @@
+{
+  "repo": "charlie947/motion-graphics-skills",
+  "url": "https://github.com/charlie947/motion-graphics-skills",
+  "sha": "229022ebca76972e119e36ada23a1648d51665ab",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:45.897Z",
+  "skillRoots": [
+    "skills/animated-chart",
+    "skills/apple-launch-film",
+    "skills/brand-intake",
+    "skills/launch-video",
+    "skills/loop-cover",
+    "skills/milestone-reveal",
+    "skills/model-showdown",
+    "skills/motion-brief-writer",
+    "skills/motion-effects",
+    "skills/motion-prompt-writer",
+    "skills/newsletter-promo",
+    "skills/reel-export",
+    "skills/reference-to-motion",
+    "skills/title-sequence-3d",
+    "skills/vox-explainer"
+  ],
+  "files": 17,
+  "droppedByBudget": 0
+}

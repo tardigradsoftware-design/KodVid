@@ -1,0 +1,12 @@
+{
+  "repo": "ahmdd4vd/MotionCraft",
+  "url": "https://github.com/ahmdd4vd/MotionCraft",
+  "sha": "8f4871543399c1981c247b734d9a123e6a6feb7a",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:52.556Z",
+  "skillRoots": [
+    "skills/motioncraft"
+  ],
+  "files": 85,
+  "droppedByBudget": 0
+}

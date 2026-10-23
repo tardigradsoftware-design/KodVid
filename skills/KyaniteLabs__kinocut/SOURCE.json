@@ -1,0 +1,17 @@
+{
+  "repo": "KyaniteLabs/kinocut",
+  "url": "https://github.com/KyaniteLabs/kinocut",
+  "sha": "8b36f6156c241402ca5d261693efdd772a6ce2ce",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:52:15.913Z",
+  "kind": "skill",
+  "skillRoots": [
+    "plugins/kinocut/skills/kinocut-repurpose",
+    "plugins/kinocut/skills/kinocut",
+    "skills/kinocut-repurpose",
+    "skills/kinocut",
+    "skills/mcp-video"
+  ],
+  "files": 8,
+  "droppedByBudget": 0
+}

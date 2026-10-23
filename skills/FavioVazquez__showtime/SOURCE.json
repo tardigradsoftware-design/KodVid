@@ -1,0 +1,12 @@
+{
+  "repo": "FavioVazquez/showtime",
+  "url": "https://github.com/FavioVazquez/showtime",
+  "sha": "2efdb115bec3c8024b766dd93044619cd7ee00f7",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:10.762Z",
+  "skillRoots": [
+    "skills/showtime"
+  ],
+  "files": 300,
+  "droppedByBudget": 226
+}

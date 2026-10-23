@@ -1,0 +1,12 @@
+{
+  "repo": "fernandokaraka/remotion-motion-graphics-skill",
+  "url": "https://github.com/fernandokaraka/remotion-motion-graphics-skill",
+  "sha": "1fc286924c68260b7945f1f29e474b986446b70d",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:19.974Z",
+  "skillRoots": [
+    "skills/remotion-motion-graphics"
+  ],
+  "files": 5,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,55 @@
+{
+  "title": "AI 文档转视频示例",
+  "description": "一个展示 docvideoer 工作流的短视频示例。",
+  "totalDuration": 24,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "type": "title",
+      "title": "文档如何变成视频",
+      "narration": "这段示例会展示如何把一份文档，转成结构化的讲解视频。",
+      "duration": 6,
+      "visuals": {
+        "type": "title",
+        "title": "文档如何变成视频",
+        "subtitle": "从内容到分镜，再到语音和画面"
+      }
+    },
+    {
+      "id": "scene-2",
+      "type": "bullet",
+      "title": "核心流程",
+      "narration": "整个流程分为三步，先提取内容，再生成分镜，最后合成语音并渲染。",
+      "duration": 8,
+      "visuals": {
+        "type": "bullet",
+        "title": "核心流程",
+        "items": ["提取文档正文", "生成视频分镜", "合成语音并渲染"]
+      }
+    },
+    {
+      "id": "scene-3",
+      "type": "content",
+      "title": "适合自动化",
+      "narration": "当分镜结构稳定后，同一套模板可以反复生成风格一致的视频。",
+      "duration": 6,
+      "visuals": {
+        "type": "content",
+        "title": "适合自动化",
+        "body": "分镜、语音、字幕和 Remotion 组件通过统一数据结构连接。"
+      }
+    },
+    {
+      "id": "scene-4",
+      "type": "end",
+      "title": "完成",
+      "narration": "这就是 docvideoer 的基本使用方式。",
+      "duration": 4,
+      "visuals": {
+        "type": "end",
+        "title": "完成",
+        "summary": ["准备 storyboard.json", "运行 docvideoer build", "获得 MP4 输出"]
+      }
+    }
+  ]
+}

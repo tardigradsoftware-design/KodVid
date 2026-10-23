@@ -1,0 +1,13 @@
+{
+  "repo": "Hype-yolo/claude-motion-skill",
+  "url": "https://github.com/Hype-yolo/claude-motion-skill",
+  "sha": "607fe9801529bb493b1968cd967a3e8a959d42c1",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:21.355Z",
+  "skillRoots": [
+    "skills/claude-motion",
+    "skills/claude-motion/assets/cases/animate/plugins/animate/skills/animate"
+  ],
+  "files": 300,
+  "droppedByBudget": 2448
+}

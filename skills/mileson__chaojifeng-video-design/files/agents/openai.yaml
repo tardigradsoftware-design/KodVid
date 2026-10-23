@@ -1,0 +1,4 @@
+interface:
+  display_name: "超级峰的视频设计方法论"
+  short_description: "从主线、分镜和声画节奏到制作、审片与成片交付的视频设计方法"
+  default_prompt: "使用 $chaojifeng-video-design，根据本次目标确定主线、镜头任务、素材与声画节奏，完成所需的视频方案或成片，并交付可编辑源与实际验证结果。"

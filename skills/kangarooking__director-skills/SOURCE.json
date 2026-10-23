@@ -1,0 +1,18 @@
+{
+  "repo": "kangarooking/director-skills",
+  "url": "https://github.com/kangarooking/director-skills",
+  "sha": "301e6e72199f28b8ea82cd48ff06ab9ae49d0ee5",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:07.884Z",
+  "skillRoots": [
+    "action-fight-prompt",
+    "cinematic-asset-prompts",
+    "emotion-performance-director",
+    "miora-video-studio",
+    "seedance-motion-studio",
+    "travel-photo-to-video",
+    "travel-skill"
+  ],
+  "files": 73,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,22 @@
+{
+  "repo": "Neelshah1810/Claude-Video-Skills",
+  "url": "https://github.com/Neelshah1810/Claude-Video-Skills",
+  "sha": "d1645496774ce9af5941f3c410d75b1bf43e4fcb",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:30.174Z",
+  "skillRoots": [
+    "brand-film",
+    "data-story",
+    "event-promo",
+    "explainer-video",
+    "feature-update",
+    "launch-film",
+    "motion-film",
+    "product-walkthrough",
+    "social-ad",
+    "testimonial-video",
+    "tutorial-video"
+  ],
+  "files": 67,
+  "droppedByBudget": 0
+}

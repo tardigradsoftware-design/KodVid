@@ -1,0 +1,12 @@
+{
+  "repo": "derrickgong87/demo-video-creation-skill",
+  "url": "https://github.com/derrickgong87/demo-video-creation-skill",
+  "sha": "7c246b3f122e11ad00bf0123d9b2ef79267244dc",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:10.821Z",
+  "skillRoots": [
+    "demo-video-creation-skill"
+  ],
+  "files": 16,
+  "droppedByBudget": 0
+}

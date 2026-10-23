@@ -1,0 +1,12 @@
+{
+  "repo": "patryk-penczek/ship-video",
+  "url": "https://github.com/patryk-penczek/ship-video",
+  "sha": "8b1e3e899d5d0879a0154838e9c2c0c0d11263e5",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:34.192Z",
+  "skillRoots": [
+    "skills/ship-video"
+  ],
+  "files": 51,
+  "droppedByBudget": 0
+}

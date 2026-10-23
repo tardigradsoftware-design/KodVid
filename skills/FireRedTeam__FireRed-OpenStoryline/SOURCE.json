@@ -1,0 +1,18 @@
+{
+  "repo": "FireRedTeam/FireRed-OpenStoryline",
+  "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+  "sha": "c9e945215586f45c12a61c1951ee9a8e9c43a027",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:42:07.399Z",
+  "skillRoots": [
+    ".claude/skills/openstoryline-install",
+    ".claude/skills/openstoryline-use",
+    ".storyline/skills/ai_transition_editing_skill",
+    ".storyline/skills/create_profile_style_skill",
+    ".storyline/skills/default_editing_workflow_skill",
+    ".storyline/skills/speech_rough_cut_skill",
+    ".storyline/skills/subtitle_imitation_skill"
+  ],
+  "files": 9,
+  "droppedByBudget": 0
+}

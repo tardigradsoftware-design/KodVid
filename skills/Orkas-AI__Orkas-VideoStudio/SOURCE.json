@@ -1,0 +1,26 @@
+{
+  "repo": "Orkas-AI/Orkas-VideoStudio",
+  "url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
+  "sha": "8a2b51af787830e722f2565b3e13d479ffed5c17",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:33.684Z",
+  "kind": "skill",
+  "skillRoots": [
+    "packages/skills/composition-design-review",
+    "packages/skills/design-system-importer",
+    "packages/skills/frontend-design",
+    "packages/skills/gate-control",
+    "packages/skills/orchestration",
+    "packages/skills/stage-assemble",
+    "packages/skills/stage-compose",
+    "packages/skills/stage-consistency",
+    "packages/skills/stage-decide",
+    "packages/skills/stage-edit",
+    "packages/skills/stage-generate",
+    "packages/skills/stage-plan",
+    "packages/skills/video-craft",
+    "packages/skills/video-router"
+  ],
+  "files": 27,
+  "droppedByBudget": 0
+}

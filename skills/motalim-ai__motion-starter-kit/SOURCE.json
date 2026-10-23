@@ -1,0 +1,13 @@
+{
+  "repo": "motalim-ai/motion-starter-kit",
+  "url": "https://github.com/motalim-ai/motion-starter-kit",
+  "sha": "4f71f89e6d90b40b7d99b1429689eda161c5f07c",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:18.410Z",
+  "skillRoots": [
+    ".agents/skills/logo-animation",
+    ".agents/skills/motion-from-reference"
+  ],
+  "files": 15,
+  "droppedByBudget": 0
+}

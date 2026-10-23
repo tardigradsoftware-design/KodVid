@@ -1,0 +1,14 @@
+{
+  "repo": "sun-guannan/VectCutAPI",
+  "url": "https://github.com/sun-guannan/VectCutAPI",
+  "sha": "0596f17b24e6d103a581ba33d8b74f00126348a8",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:52:54.863Z",
+  "kind": "skill",
+  "skillRoots": [
+    ".agents/skills/capcut-director",
+    "vectcut-skill/skill"
+  ],
+  "files": 5,
+  "droppedByBudget": 0
+}

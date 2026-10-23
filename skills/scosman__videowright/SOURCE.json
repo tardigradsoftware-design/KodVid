@@ -1,0 +1,14 @@
+{
+  "repo": "scosman/videowright",
+  "url": "https://github.com/scosman/videowright",
+  "sha": "df9146f5f8c68d4c67839772419dba96586f007a",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:27.625Z",
+  "kind": "skill",
+  "skillRoots": [
+    "packages/lib/skill",
+    "specs/projects/vibe_forge_v1/components"
+  ],
+  "files": 145,
+  "droppedByBudget": 0
+}

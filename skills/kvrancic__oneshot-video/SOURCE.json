@@ -1,0 +1,12 @@
+{
+  "repo": "kvrancic/oneshot-video",
+  "url": "https://github.com/kvrancic/oneshot-video",
+  "sha": "6cfecb288d79e89862681d67a9c40d18eac320b0",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:56.773Z",
+  "skillRoots": [
+    "skills/oneshot-video"
+  ],
+  "files": 89,
+  "droppedByBudget": 0
+}

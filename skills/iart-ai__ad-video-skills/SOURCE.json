@@ -1,0 +1,14 @@
+{
+  "repo": "iart-ai/ad-video-skills",
+  "url": "https://github.com/iart-ai/ad-video-skills",
+  "sha": "0de0f2a1c1f42a98103fc0ec436509276428372c",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:12.567Z",
+  "skillRoots": [
+    "skills/ad-creative-video",
+    "skills/launch-video",
+    "skills/testimonial-video"
+  ],
+  "files": 11,
+  "droppedByBudget": 0
+}

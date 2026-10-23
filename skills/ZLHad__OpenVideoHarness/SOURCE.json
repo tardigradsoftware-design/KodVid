@@ -1,0 +1,12 @@
+{
+  "repo": "ZLHad/OpenVideoHarness",
+  "url": "https://github.com/ZLHad/OpenVideoHarness",
+  "sha": "a3349767a33f5b28c0e7a6ddc3b1f6fdcd6632e4",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:20.991Z",
+  "skillRoots": [
+    "skills/open-video-harness"
+  ],
+  "files": 1,
+  "droppedByBudget": 0
+}

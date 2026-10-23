@@ -1,0 +1,7 @@
+# Modified from video-shotcraft on 2026-09-04: renamed UI metadata.
+# Codex skill UI metadata — schema: skill-creator references/openai_yaml.md.
+# Read by the Codex harness (not the agent); Claude Code reads SKILL.md frontmatter instead.
+interface:
+  display_name: "Cinematic Product Promo"
+  short_description: "用 Remotion、镜头配方和真实页面制作电影感产品宣传片"
+  default_prompt: "使用 $cinematic-product-promo-skill，把我的前端项目制作成电影感产品宣传片。"

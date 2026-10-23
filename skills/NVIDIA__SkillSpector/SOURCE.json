@@ -1,0 +1,13 @@
+{
+  "repo": "NVIDIA/SkillSpector",
+  "url": "https://github.com/NVIDIA/SkillSpector",
+  "sha": "d7338f58200a9ae2a24810cee08911ab68b107a7",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:52:36.238Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/skill-inspector"
+  ],
+  "files": 1,
+  "droppedByBudget": 0
+}

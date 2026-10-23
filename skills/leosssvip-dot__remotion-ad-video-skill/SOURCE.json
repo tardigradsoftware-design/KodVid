@@ -1,0 +1,12 @@
+{
+  "repo": "leosssvip-dot/remotion-ad-video-skill",
+  "url": "https://github.com/leosssvip-dot/remotion-ad-video-skill",
+  "sha": "e734c0299474132366e8270e9cffaf9a26f2c5ed",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:53.746Z",
+  "skillRoots": [
+    "skills/remotion-ad-video"
+  ],
+  "files": 45,
+  "droppedByBudget": 0
+}

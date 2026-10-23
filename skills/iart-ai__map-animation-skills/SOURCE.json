@@ -1,0 +1,12 @@
+{
+  "repo": "iart-ai/map-animation-skills",
+  "url": "https://github.com/iart-ai/map-animation-skills",
+  "sha": "390ca98bbcf2ea88a430a69c0dcbf423e43d075d",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:49.410Z",
+  "skillRoots": [
+    "skills/map-animation"
+  ],
+  "files": 4,
+  "droppedByBudget": 0
+}

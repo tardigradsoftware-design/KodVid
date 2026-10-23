@@ -1,0 +1,48 @@
+cav
+Copyright (c) 2026 Sebastiano Poggi. MIT licence (see LICENSE).
+
+This project builds on ideas and code from other projects.
+
+1. cavalry-mcp — https://github.com/m18h/cavalry-mcp
+   Copyright (c) 2026 Michael Essandoh. MIT licence.
+   assets/bridge/cav-bridge.js is derived from its bridge script
+   (cavalry-mcp-bridge.js). The request/response bridge with a shared token,
+   the idea of a bundled API reference, and the idea of a searchable docs
+   knowledge base come from cavalry-mcp. The full licence text is kept in the
+   header of assets/bridge/cav-bridge.js.
+
+2. cavalry-types — https://github.com/scenery-io/cavalry-types
+   Copyright (c) 2022 Remco Janssen. MIT licence.
+   assets/apiref/api.json contains function names and type signatures taken
+   from its type definitions. Documentation text is not copied.
+
+3. Go modules built into the cav binary for `cav mcp`:
+   - MCP Go SDK — https://github.com/modelcontextprotocol/go-sdk
+     Copyright the Go MCP SDK authors. MIT licence, with new contributions under
+     Apache-2.0.
+   - jsonschema-go (Google, MIT), segmentio/asm and segmentio/encoding (MIT),
+     yosida95/uritemplate (BSD 3-Clause), and golang.org/x/oauth2, x/sync, x/sys and
+     x/time (BSD 3-Clause).
+   Their licence texts are in each module's source.
+
+4. Barlow Semi Condensed — https://github.com/jpt/barlow
+   Copyright 2017 The Barlow Project Authors. SIL Open Font License 1.1.
+   The SemiBold Latin subset is embedded in assets/review/index.html for the
+   review page's column heads and frame numbers.
+
+5. earshot — https://github.com/Leonxlnx/earshot
+   Copyright (c) 2026 Leon Lin. MIT licence.
+   Not built into cav and not redistributed: `cav sfx search --by-sound` asks uv to
+   install it (pinned to the v0.3.0 commit) into uv's own cache, and runs it on the
+   user's computer. Its models are downloaded from their authors under their own
+   licences: CLAP (laion/larger_clap_general) Apache-2.0 and the AudioSet tagger
+   (MIT/ast-finetuned-audioset-10-10-0.4593) BSD-3-Clause.
+   `cav sfx search --service bank` downloads the earshot source archive (about 4 MB,
+   same pinned commit) into the cav cache and renders the sounds its bank describes on
+   the user's computer. The synthesized sounds ship under the same MIT licence; the ones
+   fitted from a recording credit their CC0 source (author and link) in the manifest.
+
+Cavalry is a product of Scene Group Limited (now part of Canva). This project
+is not affiliated with or endorsed by Scene Group or Canva. The Cavalry
+documentation is not redistributed: `cav docs update` downloads it to the
+user's own computer for offline search.

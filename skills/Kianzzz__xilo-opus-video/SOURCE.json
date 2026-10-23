@@ -1,0 +1,12 @@
+{
+  "repo": "Kianzzz/xilo-opus-video",
+  "url": "https://github.com/Kianzzz/xilo-opus-video",
+  "sha": "f2cd828e2692e7186186408ee01a936707c2c38d",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:47.301Z",
+  "skillRoots": [
+    "skills/xilo-opus-video"
+  ],
+  "files": 9,
+  "droppedByBudget": 0
+}

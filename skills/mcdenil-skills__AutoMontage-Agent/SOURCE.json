@@ -1,0 +1,30 @@
+{
+  "repo": "mcdenil-skills/AutoMontage-Agent",
+  "url": "https://github.com/mcdenil-skills/AutoMontage-Agent",
+  "sha": "e8647d52c3ea249ffdd113739271d1e7efbf13a7",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:52.362Z",
+  "skillRoots": [
+    ".agents/skills/ai-promo",
+    ".agents/skills/motion-reel",
+    ".agents/skills/reel-from-donor",
+    ".agents/skills/reel-turnkey",
+    ".claude/skills/ai-promo",
+    ".claude/skills/lead-magnet",
+    ".claude/skills/motion-reel",
+    ".claude/skills/reel-from-donor",
+    ".claude/skills/reel-turnkey",
+    ".codex/skills/ai-promo",
+    ".codex/skills/lead-magnet",
+    ".codex/skills/motion-reel",
+    ".codex/skills/reel-from-donor",
+    ".codex/skills/reel-turnkey",
+    "skills/ai-promo",
+    "skills/lead-magnet",
+    "skills/motion-reel",
+    "skills/reel-from-donor",
+    "skills/reel-turnkey"
+  ],
+  "files": 60,
+  "droppedByBudget": 0
+}

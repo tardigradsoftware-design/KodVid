@@ -1,0 +1,12 @@
+{
+  "repo": "zhenwusw/orca-motion-skill",
+  "url": "https://github.com/zhenwusw/orca-motion-skill",
+  "sha": "c88a9f8fb2ac1984a3ca2d74168110b6dc853d51",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:20.415Z",
+  "skillRoots": [
+    ""
+  ],
+  "files": 16,
+  "droppedByBudget": 0
+}

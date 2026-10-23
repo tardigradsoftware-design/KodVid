@@ -1,0 +1,17 @@
+{
+  "repo": "descriptinc/descript-mcp",
+  "url": "https://github.com/descriptinc/descript-mcp",
+  "sha": "a34bf79970993edd1df74293ebc16425f820798f",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:52:56.137Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/create-video",
+    "skills/edit-project",
+    "skills/export-timeline",
+    "skills/export-transcript",
+    "skills/publish-project"
+  ],
+  "files": 10,
+  "droppedByBudget": 0
+}

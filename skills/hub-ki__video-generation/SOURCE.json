@@ -1,0 +1,13 @@
+{
+  "repo": "hub-ki/video-generation",
+  "url": "https://github.com/hub-ki/video-generation",
+  "sha": "a049d66ccd710f2c377e843820dc3254940b836b",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:32.010Z",
+  "skillRoots": [
+    "skills/demo-video",
+    "skills/video-plan"
+  ],
+  "files": 49,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,14 @@
+{
+  "repo": "vibe-motion/remotion-starter",
+  "url": "https://github.com/vibe-motion/remotion-starter",
+  "sha": "6a521397cb2470466d52a9ba4106e227bfee170e",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:38.527Z",
+  "skillRoots": [
+    ".claude/skills/cyxj-remotion-evolve",
+    ".claude/skills/cyxj-remotion-overlay",
+    ".claude/skills/cyxj-remotion-produce"
+  ],
+  "files": 5,
+  "droppedByBudget": 0
+}

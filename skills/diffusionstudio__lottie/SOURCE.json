@@ -1,0 +1,12 @@
+{
+  "repo": "diffusionstudio/lottie",
+  "url": "https://github.com/diffusionstudio/lottie",
+  "sha": "3c72912fad543897f90045ed4d355813837927fc",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:08.906Z",
+  "skillRoots": [
+    "skills/text-to-lottie"
+  ],
+  "files": 23,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,25 @@
+{
+  "repo": "digitalsamba/claude-code-video-toolkit",
+  "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
+  "sha": "da3f474c1230d161be1384ef97aec27f73b11636",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:04.639Z",
+  "skillRoots": [
+    ".claude/skills/acestep",
+    ".claude/skills/elevenlabs",
+    ".claude/skills/ffmpeg",
+    ".claude/skills/frontend-design",
+    ".claude/skills/ideogram4",
+    ".claude/skills/ltx2",
+    ".claude/skills/moviepy",
+    ".claude/skills/playwright-recording",
+    ".claude/skills/qwen-edit",
+    ".claude/skills/remotion-official",
+    ".claude/skills/remotion",
+    ".claude/skills/runpod",
+    ".claude/skills/synthetic-ui-demo",
+    "skills/openclaw-video-toolkit"
+  ],
+  "files": 148,
+  "droppedByBudget": 0
+}

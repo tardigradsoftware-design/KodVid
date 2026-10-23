@@ -1,0 +1,13 @@
+{
+  "repo": "iart-ai/youtube-video-skills",
+  "url": "https://github.com/iart-ai/youtube-video-skills",
+  "sha": "f3df381d65abe5078f5ed410bbc3ed72e7cb92bd",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:25.591Z",
+  "skillRoots": [
+    "skills/audiogram",
+    "skills/youtube-intro-outro"
+  ],
+  "files": 6,
+  "droppedByBudget": 0
+}

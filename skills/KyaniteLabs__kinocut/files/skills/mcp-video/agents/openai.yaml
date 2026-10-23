@@ -1,0 +1,7 @@
+interface:
+  display_name: "mcp-video compatibility"
+  short_description: "Redirect legacy video workflows to Kinocut"
+  default_prompt: "Use $kinocut to complete this video task while preserving mcp-video compatibility."
+
+policy:
+  allow_implicit_invocation: false

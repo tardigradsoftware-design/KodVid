@@ -1,0 +1,13 @@
+{
+  "repo": "dmtrKovalenko/fframes",
+  "url": "https://github.com/dmtrKovalenko/fframes",
+  "sha": "654ae86ffdff31202940d8cf05cdcdc30efe6228",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:06.249Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/fframes-video"
+  ],
+  "files": 5,
+  "droppedByBudget": 0
+}

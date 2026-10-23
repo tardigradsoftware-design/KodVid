@@ -1,0 +1,14 @@
+{
+  "repo": "skailabinfo/claude-video-harness",
+  "url": "https://github.com/skailabinfo/claude-video-harness",
+  "sha": "c2686da122cd7755fe4f829f077e5cdcb67369cd",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:32.921Z",
+  "skillRoots": [
+    ".claude/skills/new-video",
+    ".claude/skills/publish",
+    ".claude/skills/setup"
+  ],
+  "files": 3,
+  "droppedByBudget": 0
+}

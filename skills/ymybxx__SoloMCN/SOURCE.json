@@ -1,0 +1,26 @@
+{
+  "repo": "ymybxx/SoloMCN",
+  "url": "https://github.com/ymybxx/SoloMCN",
+  "sha": "444fd420a6690a9bc21f95c76b78db5209f8c6e6",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:42.147Z",
+  "skillRoots": [
+    "defaults/skills/account-ideas",
+    "defaults/skills/curate-topics",
+    "defaults/skills/daily-topics",
+    "defaults/skills/explainer-video",
+    "defaults/skills/improve-skills",
+    "defaults/skills/make-video",
+    "defaults/skills/precheck-content",
+    "defaults/skills/research-topic",
+    "defaults/skills/review-data",
+    "defaults/skills/revise-video",
+    "defaults/skills/stage-montage",
+    "defaults/skills/teardown-video",
+    "defaults/skills/transcribe",
+    "defaults/skills/voice-over",
+    "defaults/skills/write-script"
+  ],
+  "files": 33,
+  "droppedByBudget": 0
+}

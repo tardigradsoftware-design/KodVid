@@ -1,0 +1,13 @@
+{
+  "repo": "every-app/video-skills",
+  "url": "https://github.com/every-app/video-skills",
+  "sha": "01afbd2222da1eceee362b57611dd330d7d9dc82",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:17.358Z",
+  "skillRoots": [
+    "skills/narrated-video",
+    "skills/teaser-video"
+  ],
+  "files": 53,
+  "droppedByBudget": 0
+}

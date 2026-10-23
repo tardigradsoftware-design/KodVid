@@ -1,0 +1,18 @@
+{
+  "repo": "zenstory-ai/video-recap-skills",
+  "url": "https://github.com/zenstory-ai/video-recap-skills",
+  "sha": "9c88a98ac8401f9722daa5b2865d8e9c60bc6d2f",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:17.634Z",
+  "skillRoots": [
+    "skills/video-assemble",
+    "skills/video-cut",
+    "skills/video-recap",
+    "skills/video-reference",
+    "skills/video-script",
+    "skills/video-understanding",
+    "skills/video-voiceover"
+  ],
+  "files": 165,
+  "droppedByBudget": 0
+}

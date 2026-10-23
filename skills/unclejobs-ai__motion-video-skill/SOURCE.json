@@ -1,0 +1,12 @@
+{
+  "repo": "unclejobs-ai/motion-video-skill",
+  "url": "https://github.com/unclejobs-ai/motion-video-skill",
+  "sha": "dd11881e22b36523243444c49c5c29cfecc200e3",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:04.576Z",
+  "skillRoots": [
+    "skills/motion-video-production"
+  ],
+  "files": 21,
+  "droppedByBudget": 0
+}

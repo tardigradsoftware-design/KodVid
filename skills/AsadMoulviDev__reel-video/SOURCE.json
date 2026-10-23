@@ -1,0 +1,13 @@
+{
+  "repo": "AsadMoulviDev/reel-video",
+  "url": "https://github.com/AsadMoulviDev/reel-video",
+  "sha": "39a5ea97e81994bbaa0a546fc85fd7668f012890",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:06.760Z",
+  "skillRoots": [
+    ".claude/skills/reel-video",
+    ".grok/skills/reel-video"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

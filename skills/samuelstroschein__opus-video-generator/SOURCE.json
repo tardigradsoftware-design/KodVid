@@ -1,0 +1,13 @@
+{
+  "repo": "samuelstroschein/opus-video-generator",
+  "url": "https://github.com/samuelstroschein/opus-video-generator",
+  "sha": "aa3623fc9c28adde30db78de02848f4e4b8ab011",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:51:57.023Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/launch-video"
+  ],
+  "files": 17,
+  "droppedByBudget": 0
+}

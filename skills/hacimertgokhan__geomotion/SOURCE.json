@@ -1,0 +1,12 @@
+{
+  "repo": "hacimertgokhan/geomotion",
+  "url": "https://github.com/hacimertgokhan/geomotion",
+  "sha": "88c1c1c4f8946309f961ef6e7983171da7a95d07",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:23.506Z",
+  "skillRoots": [
+    "skills/geomotion"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

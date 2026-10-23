@@ -1,0 +1,23 @@
+{
+  "repo": "diko0071/remotion-video-skills",
+  "url": "https://github.com/diko0071/remotion-video-skills",
+  "sha": "34dbc3b5e7c0841025b11aa27574fb5d6fd866be",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:38.970Z",
+  "skillRoots": [
+    ".claude/skills/remotion-best-practices",
+    ".claude/skills/remotion-captions",
+    ".claude/skills/remotion-create",
+    ".claude/skills/remotion-docs",
+    ".claude/skills/remotion-interactivity",
+    ".claude/skills/remotion-maps",
+    ".claude/skills/remotion-markup",
+    ".claude/skills/remotion-multimedia",
+    ".claude/skills/remotion-render",
+    ".claude/skills/remotion-saas",
+    ".claude/skills/remotion-studio",
+    ".claude/skills/remotion-upgrade"
+  ],
+  "files": 238,
+  "droppedByBudget": 0
+}

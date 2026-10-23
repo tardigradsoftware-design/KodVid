@@ -1,0 +1,21 @@
+{
+  "repo": "alisadiq-ai/favstash-ai-video-editing-skills",
+  "url": "https://github.com/alisadiq-ai/favstash-ai-video-editing-skills",
+  "sha": "b6901b21e1ef690f3443556718700d60b38f5c19",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:42:29.783Z",
+  "skillRoots": [
+    "skills/1-research/find-ideas",
+    "skills/2-scripting/write-script",
+    "skills/3-editing-styles/adaptive-glass",
+    "skills/3-editing-styles/breakout-card",
+    "skills/3-editing-styles/motion-effects",
+    "skills/3-editing-styles/paper-grid",
+    "skills/3-editing-styles/product-motion-ads",
+    "skills/3-editing-styles/text-over-footage",
+    "skills/3-editing/edit-video",
+    "skills/4-publish-and-learn/publish-and-analyze"
+  ],
+  "files": 69,
+  "droppedByBudget": 0
+}

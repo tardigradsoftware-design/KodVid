@@ -1,0 +1,14 @@
+{
+  "repo": "124zhe/xigua-msvideo-skill",
+  "url": "https://github.com/124zhe/xigua-msvideo-skill",
+  "sha": "b9a00165c9fddbc85eb59334f682440f62004cc5",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:52.733Z",
+  "skillRoots": [
+    "skills/xigua-msvideo-skill",
+    "skills/youtube-curiosity-stories",
+    "skills/youtube-ms-paint-images"
+  ],
+  "files": 18,
+  "droppedByBudget": 0
+}

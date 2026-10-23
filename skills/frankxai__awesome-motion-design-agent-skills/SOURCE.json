@@ -1,0 +1,17 @@
+{
+  "repo": "frankxai/awesome-motion-design-agent-skills",
+  "url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+  "sha": "b45d60fa5b0f7b7d07331572416b80e17dcfd203",
+  "license": "CC0-1.0",
+  "fetchedAt": "2026-10-22T23:52:29.659Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/generative-media-director",
+    "skills/motion-director",
+    "skills/remotion-video-agent",
+    "skills/site-motion-excellence-director",
+    "skills/web-motion-auditor"
+  ],
+  "files": 5,
+  "droppedByBudget": 0
+}

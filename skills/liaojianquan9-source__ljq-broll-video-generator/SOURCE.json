@@ -1,0 +1,16 @@
+{
+  "repo": "liaojianquan9-source/ljq-broll-video-generator",
+  "url": "https://github.com/liaojianquan9-source/ljq-broll-video-generator",
+  "sha": "67eb473a738638102f3502d6ae217e5c3d0b47ea",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:43.094Z",
+  "skillRoots": [
+    "skills/ljq-broll-fidelity-qa",
+    "skills/ljq-broll-layout-structure",
+    "skills/ljq-broll-motion-forensics",
+    "skills/ljq-broll-replica",
+    "skills/ljq-broll-video-generator"
+  ],
+  "files": 80,
+  "droppedByBudget": 0
+}

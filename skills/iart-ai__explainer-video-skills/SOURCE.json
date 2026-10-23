@@ -1,0 +1,16 @@
+{
+  "repo": "iart-ai/explainer-video-skills",
+  "url": "https://github.com/iart-ai/explainer-video-skills",
+  "sha": "3e2d411b725d9a72939cf8e5eb81579e751373e7",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:43.554Z",
+  "skillRoots": [
+    "skills/diagram-animation",
+    "skills/explainer-video",
+    "skills/isometric-animation",
+    "skills/whiteboard-animation",
+    "skills/wrapped-video"
+  ],
+  "files": 18,
+  "droppedByBudget": 0
+}

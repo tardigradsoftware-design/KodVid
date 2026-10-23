@@ -1,0 +1,18 @@
+{
+  "repo": "ayushozha/AdobePremiereProMCP",
+  "url": "https://github.com/ayushozha/AdobePremiereProMCP",
+  "sha": "36574e4920d56ae71efeb055ba8e2af827b2106c",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:20.326Z",
+  "skillRoots": [
+    "skills/premiere-batch-delivery",
+    "skills/premiere-captions",
+    "skills/premiere-dialogue-cut",
+    "skills/premiere-look-effects",
+    "skills/premiere-proxy-conform",
+    "skills/premiere-social-reframe",
+    "skills/premiere-transition-pack"
+  ],
+  "files": 14,
+  "droppedByBudget": 0
+}

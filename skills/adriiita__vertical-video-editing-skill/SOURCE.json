@@ -1,0 +1,12 @@
+{
+  "repo": "adriiita/vertical-video-editing-skill",
+  "url": "https://github.com/adriiita/vertical-video-editing-skill",
+  "sha": "c620fa0b8e98d53edbf9d005a9fb4ca7e333e2e8",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:48.350Z",
+  "skillRoots": [
+    "skills/video-editing"
+  ],
+  "files": 7,
+  "droppedByBudget": 0
+}

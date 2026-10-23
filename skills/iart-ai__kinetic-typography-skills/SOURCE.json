@@ -1,0 +1,12 @@
+{
+  "repo": "iart-ai/kinetic-typography-skills",
+  "url": "https://github.com/iart-ai/kinetic-typography-skills",
+  "sha": "fccc94bd325d824235ee9e715e65abde57b6513a",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:17.345Z",
+  "skillRoots": [
+    "skills/kinetic-typography"
+  ],
+  "files": 3,
+  "droppedByBudget": 0
+}

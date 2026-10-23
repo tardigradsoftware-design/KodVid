@@ -1,0 +1,12 @@
+{
+  "repo": "AmirSbss/spotlight",
+  "url": "https://github.com/AmirSbss/spotlight",
+  "sha": "d148d7920a02403a981d56f7a6950587221e5d62",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:20.796Z",
+  "skillRoots": [
+    "skills/spotlight"
+  ],
+  "files": 35,
+  "droppedByBudget": 0
+}

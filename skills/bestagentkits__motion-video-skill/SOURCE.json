@@ -1,0 +1,12 @@
+{
+  "repo": "bestagentkits/motion-video-skill",
+  "url": "https://github.com/bestagentkits/motion-video-skill",
+  "sha": "a73702b893a3a5462804b5b844c6080e76f69275",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:50.327Z",
+  "skillRoots": [
+    "skills/motion-video"
+  ],
+  "files": 21,
+  "droppedByBudget": 0
+}

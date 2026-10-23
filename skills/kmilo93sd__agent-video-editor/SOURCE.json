@@ -1,0 +1,12 @@
+{
+  "repo": "kmilo93sd/agent-video-editor",
+  "url": "https://github.com/kmilo93sd/agent-video-editor",
+  "sha": "8e32c0aff64c445ef1e2b87bc04408a34d68c973",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:41.568Z",
+  "skillRoots": [
+    "skills/editing-videos"
+  ],
+  "files": 67,
+  "droppedByBudget": 0
+}

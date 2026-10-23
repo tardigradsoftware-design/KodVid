@@ -1,0 +1,12 @@
+{
+  "repo": "runesleo/claude-video-kit",
+  "url": "https://github.com/runesleo/claude-video-kit",
+  "sha": "43e3cd13c3dded7b0e5fc3fafd8ca00c9f8c9b6a",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:44.154Z",
+  "skillRoots": [
+    "skills/video-explainer"
+  ],
+  "files": 8,
+  "droppedByBudget": 0
+}

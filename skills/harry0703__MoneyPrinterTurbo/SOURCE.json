@@ -1,0 +1,13 @@
+{
+  "repo": "harry0703/MoneyPrinterTurbo",
+  "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "sha": "33dde166da7f75287ea727c10e37243f03d167c8",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:21.274Z",
+  "kind": "skill",
+  "skillRoots": [
+    "docs/skill"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

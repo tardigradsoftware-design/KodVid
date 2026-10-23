@@ -1,0 +1,15 @@
+{
+  "repo": "norahe0304-art/30x-video",
+  "url": "https://github.com/norahe0304-art/30x-video",
+  "sha": "51a606343e8af2fd0320c3d87597d0a75a6ea2dd",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:03.691Z",
+  "skillRoots": [
+    "cli/skill",
+    "cli/skill/remotion-best-practices",
+    "skills/30x-web-to-video",
+    "skills/30x-web-to-video/remotion-best-practices"
+  ],
+  "files": 300,
+  "droppedByBudget": 62
+}

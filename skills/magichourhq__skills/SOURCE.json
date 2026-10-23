@@ -1,0 +1,31 @@
+{
+  "repo": "magichourhq/skills",
+  "url": "https://github.com/magichourhq/skills",
+  "sha": "e43c205454e2b98f155cf1632cf158220c564907",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:31.102Z",
+  "skillRoots": [
+    "skills/ai-media-quality-review",
+    "skills/ai-video-generation",
+    "skills/creator-video-remix",
+    "skills/magic-hour-body-swap",
+    "skills/magic-hour-brand-kit",
+    "skills/magic-hour-campaign-kit",
+    "skills/magic-hour-character-consistency",
+    "skills/magic-hour-character-replace",
+    "skills/magic-hour-explainer-video",
+    "skills/magic-hour-face-swap",
+    "skills/magic-hour-image-editing",
+    "skills/magic-hour-image-to-video",
+    "skills/magic-hour-marketplace-images",
+    "skills/magic-hour-media",
+    "skills/magic-hour-music-video",
+    "skills/magic-hour-product-visuals",
+    "skills/magic-hour-talking-video",
+    "skills/magic-hour-text-to-video",
+    "skills/magic-hour-thumbnails",
+    "skills/magic-hour-video-editing"
+  ],
+  "files": 68,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,12 @@
+{
+  "repo": "smwbev/framewright",
+  "url": "https://github.com/smwbev/framewright",
+  "sha": "7d3245abb94c745b8ce7fc06c4ea62ba295c6f12",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:21.150Z",
+  "skillRoots": [
+    ".agents/skills/framewright"
+  ],
+  "files": 28,
+  "droppedByBudget": 0
+}

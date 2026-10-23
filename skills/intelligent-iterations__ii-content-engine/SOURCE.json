@@ -1,0 +1,13 @@
+{
+  "repo": "intelligent-iterations/ii-content-engine",
+  "url": "https://github.com/intelligent-iterations/ii-content-engine",
+  "sha": "240f3609b138266f13c7df16e0e2a2676186b3da",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:00.553Z",
+  "kind": "guide",
+  "skillRoots": [
+    ""
+  ],
+  "files": 28,
+  "droppedByBudget": 0
+}

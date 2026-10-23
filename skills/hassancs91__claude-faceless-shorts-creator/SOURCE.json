@@ -1,0 +1,16 @@
+{
+  "repo": "hassancs91/claude-faceless-shorts-creator",
+  "url": "https://github.com/hassancs91/claude-faceless-shorts-creator",
+  "sha": "773054bebbe460de0f31dcfda5315970b1c8b4f2",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:39.014Z",
+  "skillRoots": [
+    ".claude/skills/make-ai-short",
+    ".claude/skills/make-short",
+    ".claude/skills/make-vox",
+    ".claude/skills/suggest-sfx",
+    ".claude/skills/vidtsx-2d-generator"
+  ],
+  "files": 6,
+  "droppedByBudget": 0
+}

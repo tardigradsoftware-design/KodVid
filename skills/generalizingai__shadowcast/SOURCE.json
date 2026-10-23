@@ -1,0 +1,20 @@
+{
+  "repo": "generalizingai/shadowcast",
+  "url": "https://github.com/generalizingai/shadowcast",
+  "sha": "1231f8fc964786d88698579c151072b620a39e42",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:49.445Z",
+  "skillRoots": [
+    "skills/approve",
+    "skills/autopilot",
+    "skills/brand-kit",
+    "skills/channel-audit",
+    "skills/clone-channel",
+    "skills/demo",
+    "skills/episode",
+    "skills/publish",
+    "skills/setup"
+  ],
+  "files": 11,
+  "droppedByBudget": 0
+}

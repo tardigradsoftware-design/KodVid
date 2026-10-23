@@ -1,0 +1,12 @@
+{
+  "repo": "vincentsch/explainroo",
+  "url": "https://github.com/vincentsch/explainroo",
+  "sha": "e95232c8d535ed2aa390e7b1caee0d1326dd9e83",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:38.451Z",
+  "skillRoots": [
+    "skills/explainroo"
+  ],
+  "files": 1,
+  "droppedByBudget": 0
+}

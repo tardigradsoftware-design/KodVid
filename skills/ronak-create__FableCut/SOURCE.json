@@ -1,0 +1,15 @@
+{
+  "repo": "ronak-create/FableCut",
+  "url": "https://github.com/ronak-create/FableCut",
+  "sha": "f130cd3c5485af7682c0f8f6ff680599a38b66ba",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:10.754Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/edit-video",
+    "skills/motion-graphics",
+    "skills/remake-reel"
+  ],
+  "files": 3,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,12 @@
+{
+  "repo": "blixvip/easyedit",
+  "url": "https://github.com/blixvip/easyedit",
+  "sha": "dd860f8c452d486999c9fe095327e797b6767033",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:16.989Z",
+  "skillRoots": [
+    "skills/easyedit"
+  ],
+  "files": 1,
+  "droppedByBudget": 0
+}

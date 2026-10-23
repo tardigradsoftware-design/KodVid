@@ -1,0 +1,12 @@
+{
+  "repo": "iart-ai/text-message-video-skills",
+  "url": "https://github.com/iart-ai/text-message-video-skills",
+  "sha": "3a800e1e9b9635fa196a07b0143c80f7e9648558",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:43.812Z",
+  "skillRoots": [
+    "skills/text-message-animation"
+  ],
+  "files": 4,
+  "droppedByBudget": 0
+}

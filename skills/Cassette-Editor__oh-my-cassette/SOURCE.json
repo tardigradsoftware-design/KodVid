@@ -1,0 +1,13 @@
+{
+  "repo": "Cassette-Editor/oh-my-cassette",
+  "url": "https://github.com/Cassette-Editor/oh-my-cassette",
+  "sha": "2ac6bd04479fa0ea85491fc7cd965f9404dea1bb",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:20.286Z",
+  "skillRoots": [
+    ".agents/skills/cassette-video-edit",
+    "skills/cassette-video-edit"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

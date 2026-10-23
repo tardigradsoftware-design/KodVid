@@ -1,0 +1,21 @@
+{
+  "repo": "WhiteTowerAI/cut-as-code",
+  "url": "https://github.com/WhiteTowerAI/cut-as-code",
+  "sha": "a96c13e6eaa72e6882e78df08ee4c04fa7be3bc4",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:33.488Z",
+  "skillRoots": [
+    "skills/cut-as-code",
+    "skills/video-add-b-roll",
+    "skills/video-add-captions",
+    "skills/video-add-content-cards",
+    "skills/video-add-motion-graphics",
+    "skills/video-color-grade",
+    "skills/video-cut",
+    "skills/video-edit-compare",
+    "skills/video-to-shorts",
+    "skills/video-understand"
+  ],
+  "files": 300,
+  "droppedByBudget": 20125
+}

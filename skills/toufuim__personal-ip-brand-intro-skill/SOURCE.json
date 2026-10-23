@@ -1,0 +1,12 @@
+{
+  "repo": "toufuim/personal-ip-brand-intro-skill",
+  "url": "https://github.com/toufuim/personal-ip-brand-intro-skill",
+  "sha": "bd6497b3639f6051c54844483d0af440d14f6310",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:17.538Z",
+  "skillRoots": [
+    "personal-ip-brand-intro"
+  ],
+  "files": 14,
+  "droppedByBudget": 0
+}

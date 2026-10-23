@@ -1,0 +1,13 @@
+{
+  "repo": "thecodacus/rendiv",
+  "url": "https://github.com/thecodacus/rendiv",
+  "sha": "6d6aca2bf17c02351213607056bfdc9fb0ea8e6c",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:52:05.829Z",
+  "kind": "skill",
+  "skillRoots": [
+    "packages/skills/rendiv-video"
+  ],
+  "files": 20,
+  "droppedByBudget": 0
+}

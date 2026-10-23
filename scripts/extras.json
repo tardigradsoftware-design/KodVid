@@ -1,0 +1,464 @@
+{
+  "lists": [],
+  "repos": [
+    {
+      "repo": "remotion-dev/remotion",
+      "category": "engine",
+      "note": "React ile programatik video motoru. Ozel Remotion lisansi: 3'ten fazla calisani olan sirketler ucretli lisans almali."
+    },
+    {
+      "repo": "ManimCommunity/manim",
+      "category": "engine",
+      "note": "Python matematik animasyon motoru (topluluk surumu)"
+    },
+    {
+      "repo": "3b1b/manim",
+      "category": "engine",
+      "note": "3Blue1Brown'in orijinal Manim motoru"
+    },
+    {
+      "repo": "ManimCommunity/manim-voiceover",
+      "category": "audio",
+      "note": "Manim animasyonlarini seslendirmeyle senkronlayan eklenti"
+    },
+    {
+      "repo": "motion-canvas/motion-canvas",
+      "category": "engine",
+      "note": "TypeScript ile kod tabanli animasyon motoru"
+    },
+    {
+      "repo": "midrender/revideo",
+      "category": "engine",
+      "note": "Motion Canvas tabanli, sunucuda render API'si olan catal"
+    },
+    {
+      "repo": "thecodacus/rendiv",
+      "category": "engine",
+      "note": "Remotion'a acik kaynak alternatif, React ile video"
+    },
+    {
+      "repo": "Zulko/moviepy",
+      "category": "engine",
+      "note": "Python ile video duzenleme kutuphanesi"
+    },
+    {
+      "repo": "dmtrKovalenko/fframes",
+      "category": "engine",
+      "note": "Rust ve SVG ile tarayicisiz hizli video uretimi"
+    },
+    {
+      "repo": "BintzGavin/helios",
+      "category": "engine",
+      "note": "CSS animasyonlari ve Web Animations API ile programatik video"
+    },
+    {
+      "repo": "etro-js/etro",
+      "category": "engine",
+      "note": "Tarayicida katman birlestirme ve GLSL filtreleri"
+    },
+    {
+      "repo": "Vandit1604/vawe",
+      "category": "engine",
+      "note": "Ajanlar icin hafif HTML-to-video araci"
+    },
+    {
+      "repo": "mifi/editly",
+      "category": "engine",
+      "note": "JSON tanimiyla CLI uzerinden video montaji"
+    },
+    {
+      "repo": "Vanilagy/mediabunny",
+      "category": "media",
+      "note": "Tarayicida WebCodecs ile MP4/WebM okuma, yazma, donusturme"
+    },
+    {
+      "repo": "diffusionstudio/core",
+      "category": "media",
+      "note": "WebCodecs uzerinde zaman cizelgesi ve kompozisyon motoru"
+    },
+    {
+      "repo": "ffmpegwasm/ffmpeg.wasm",
+      "category": "media",
+      "note": "Tarayicida FFmpeg (WebAssembly)"
+    },
+    {
+      "repo": "AcademySoftwareFoundation/OpenTimelineIO",
+      "category": "media",
+      "note": "Kurgu zaman cizelgelerini kodla okuma ve donusturme standardi"
+    },
+    {
+      "repo": "FFmpeg/FFmpeg",
+      "category": "media",
+      "note": "Evrensel video kodlama ve filtreleme araci"
+    },
+    {
+      "repo": "mltframework/mlt",
+      "category": "media",
+      "note": "Kdenlive ve Shotcut'in arkasindaki kurgu motoru"
+    },
+    {
+      "repo": "mrdoob/three.js",
+      "category": "media",
+      "note": "3B sahneler icin WebGL motoru"
+    },
+    {
+      "repo": "processing/p5.js",
+      "category": "media",
+      "note": "Uretken sanat ve 2B cizim kutuphanesi"
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "category": "editor",
+      "note": "Acik kaynak CapCut alternatifi"
+    },
+    {
+      "repo": "diffusionstudio/editor",
+      "category": "editor",
+      "note": "Her duzenlemenin koda donustugu ajan uyumlu editor"
+    },
+    {
+      "repo": "0xsline/OpenChatCut",
+      "category": "editor",
+      "note": "Timeline, sohbet ajani ve MCP sunuculu editor"
+    },
+    {
+      "repo": "pireel/pireel",
+      "category": "editor",
+      "note": "Insan ve ajanin MCP ile ayni timeline'i paylastigi editor"
+    },
+    {
+      "repo": "nexu-io/html-video",
+      "category": "editor",
+      "note": "URL veya makaleden HyperFrames ile MP4 ureten yerel studyo"
+    },
+    {
+      "repo": "browser-use/video-use",
+      "category": "editing",
+      "note": "Kod ajanlariyla otomatik kesme, renk, altyazi ve animasyon"
+    },
+    {
+      "repo": "itsjwill/vanta",
+      "category": "editor",
+      "note": "Ses klonlama, avatar, altyazi ve AI muzik birlestiren studyo"
+    },
+    {
+      "repo": "ronak-create/FableCut",
+      "category": "editor",
+      "note": "Ajanlarin JSON timeline ile MCP/REST uzerinden yonettigi editor"
+    },
+    {
+      "repo": "open-ribbi/velocut",
+      "category": "editor",
+      "note": "Rust/WASM tarayici kurgu motoru"
+    },
+    {
+      "repo": "VelornLabs/velorn",
+      "category": "editor",
+      "note": "Ajan uyumlu kurgu yazilimi"
+    },
+    {
+      "repo": "greensock/gsap-skills",
+      "category": "motion",
+      "note": "Resmi GSAP ajan yetenekleri"
+    },
+    {
+      "repo": "LottieFiles/motion-design-skill",
+      "category": "motion",
+      "note": "Resmi Lottie hareket tasarimi yetenegi"
+    },
+    {
+      "repo": "tugrawork-creator/saas-motion-kit",
+      "category": "promo",
+      "note": "HyperFrames ile SaaS tanitim videolari"
+    },
+    {
+      "repo": "NiceBlueChai/canvas-motion-video",
+      "category": "motion",
+      "note": "Tek dosya HTML (Canvas + GSAP) ile deterministik animasyon"
+    },
+    {
+      "repo": "heygen-com/hyperframes-launches",
+      "category": "promo",
+      "mode": "examples",
+      "note": "HeyGen'in gercek lansman videolarinin HTML/GSAP kaynak kodlari"
+    },
+    {
+      "repo": "KyaniteLabs/mcp-video",
+      "category": "mcp",
+      "note": "200+ arac iceren FFmpeg ve HyperFrames MCP sunucusu"
+    },
+    {
+      "repo": "pouyashahrdami/mimic-mcp",
+      "category": "mcp",
+      "note": "Referans videoyu analiz edip Remotion projesi kuran MCP"
+    },
+    {
+      "repo": "mcp-use/remotion-mcp-app",
+      "category": "mcp",
+      "note": "Sohbet icinde canli Remotion oynatici acan MCP uygulamasi"
+    },
+    {
+      "repo": "AnayDhawan/openvidstudio",
+      "category": "mcp",
+      "note": "Web uygulamasini kaydedip Remotion ile tanitim videosu yapar"
+    },
+    {
+      "repo": "abhiemj/manim-mcp-server",
+      "category": "mcp",
+      "note": "Manim sahnelerini render eden MCP sunucusu"
+    },
+    {
+      "repo": "breverdbidder/free-video-edit-mcp",
+      "category": "mcp",
+      "note": "FFmpeg ile kesme, birlestirme, renk duzenleme MCP"
+    },
+    {
+      "repo": "misbahsy/video-audio-mcp",
+      "category": "mcp",
+      "note": "Python + FFmpeg ses/video MCP sunucusu"
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "category": "pipeline",
+      "note": "Tek konudan senaryo, stok goruntu, TTS ve altyaziyla video"
+    },
+    {
+      "repo": "Chr1s-T/MoneyPrinterPlus",
+      "category": "pipeline",
+      "note": "Kisa video uretim hatti"
+    },
+    {
+      "repo": "OpenX-Inc/flow",
+      "category": "pipeline",
+      "note": "Wan 2.2 tabanli tutarli sahne uretim hatti"
+    },
+    {
+      "repo": "FireRedTeam/FireRed-OpenStoryline",
+      "category": "pipeline",
+      "note": "Dogal dil komutlariyla yonetmenlik yapan video ajani"
+    },
+    {
+      "repo": "HKUDS/ViMax",
+      "category": "pipeline",
+      "note": "Coklu ajanla metinden video uretimi"
+    },
+    {
+      "repo": "scosman/videowright",
+      "category": "pipeline",
+      "note": "Plan ve git kontrollu varliklardan explainer video"
+    },
+    {
+      "repo": "showlab/Code2Video",
+      "category": "explainer",
+      "note": "Manim ile egitim videosu ureten cok ajanli akademik sistem"
+    },
+    {
+      "repo": "Yusuke710/manim-skill",
+      "category": "explainer",
+      "note": "Manim animasyonlari icin SKILL.md"
+    },
+    {
+      "repo": "itsharex/ffmpeg-skill",
+      "category": "editing",
+      "note": "FFmpeg icin ajan yetenegi"
+    },
+    {
+      "repo": "wilwaldon/Claude-Code-Video-Toolkit",
+      "category": "general",
+      "note": "Video uretimi icin skill, MCP ve arac derlemesi"
+    },
+    {
+      "repo": "m-bain/whisperX",
+      "category": "audio",
+      "note": "Kelime bazli zaman damgali konusma tanima"
+    },
+    {
+      "repo": "SYSTRAN/faster-whisper",
+      "category": "audio",
+      "note": "Hizli Whisper desifre motoru"
+    },
+    {
+      "repo": "ggml-org/whisper.cpp",
+      "category": "audio",
+      "note": "C/C++ ile yerel Whisper"
+    },
+    {
+      "repo": "hexgrad/kokoro",
+      "category": "audio",
+      "note": "82M parametreli hizli yerel TTS"
+    },
+    {
+      "repo": "resemble-ai/chatterbox",
+      "category": "audio",
+      "note": "Cok dilli, ses klonlamali acik TTS"
+    },
+    {
+      "repo": "ace-step/ACE-Step",
+      "category": "audio",
+      "note": "Telifsiz muzik ureten acik model"
+    },
+    {
+      "repo": "facebookresearch/audiocraft",
+      "category": "audio",
+      "note": "MusicGen ve AudioGen"
+    },
+    {
+      "repo": "Wan-Video/Wan2.2",
+      "category": "pipeline",
+      "note": "Acik difuzyon video modeli (B-roll icin)"
+    },
+    {
+      "repo": "Lightricks/LTX-Video",
+      "category": "pipeline",
+      "note": "Acik difuzyon video modeli"
+    },
+    {
+      "repo": "voidforall/awesome-video-as-code",
+      "category": "list"
+    },
+    {
+      "repo": "zhuyansen/awesome-claude-video-skills",
+      "category": "list"
+    },
+    {
+      "repo": "frankxai/awesome-motion-design-agent-skills",
+      "category": "list"
+    },
+    {
+      "repo": "a1adams/mcp-servers-for-video-editing",
+      "category": "list"
+    },
+    {
+      "repo": "JuneYaooo/awesome-ai-media",
+      "category": "list",
+      "note": "Genel AI medya listesi; video disi araclar da icerir, otomatik taranmaz"
+    },
+    {
+      "repo": "ahujasid/mcp-for-blender",
+      "category": "mcp",
+      "note": "Blender i dil modelleriyle yoneten MCP sunucusu"
+    },
+    {
+      "repo": "openai/whisper",
+      "category": "audio",
+      "note": "Konusma tanima ve altyazi"
+    },
+    {
+      "repo": "juliangarnier/anime",
+      "category": "media",
+      "note": "JavaScript animasyon motoru"
+    },
+    {
+      "repo": "motiondivision/motion",
+      "category": "media",
+      "note": "React ve JavaScript icin animasyon kutuphanesi"
+    },
+    {
+      "repo": "pmndrs/react-three-fiber",
+      "category": "media",
+      "note": "Three.js icin React renderer"
+    },
+    {
+      "repo": "greensock/GSAP",
+      "category": "media",
+      "note": "Web animasyon kutuphanesi"
+    },
+    {
+      "repo": "rive-app/rive-wasm",
+      "category": "media",
+      "note": "Rive animasyonlari icin web calisma zamani"
+    },
+    {
+      "repo": "LottieFiles/dotlottie-web",
+      "category": "media",
+      "note": "Lottie ve dotLottie web oynaticisi"
+    },
+    {
+      "repo": "samuelgursky/davinci-resolve-mcp",
+      "category": "mcp",
+      "note": "DaVinci Resolve MCP sunucusu"
+    },
+    {
+      "repo": "hiteshK03/davinci-resolve-mcp",
+      "category": "mcp",
+      "note": "DaVinci Resolve MCP sunucusu (alternatif)"
+    },
+    {
+      "repo": "Dakkshin/after-effects-mcp",
+      "category": "mcp",
+      "note": "Adobe After Effects MCP sunucusu"
+    },
+    {
+      "repo": "descriptinc/descript-mcp",
+      "category": "mcp",
+      "note": "Descript ile metinden video ve ses kurgusu"
+    },
+    {
+      "repo": "kevinwatt/ffmpeg-mcp-lite",
+      "category": "mcp",
+      "note": "FFmpeg ile donusturme, sikistirma, kesme MCP"
+    },
+    {
+      "repo": "sun-guannan/VectCutAPI",
+      "category": "editing",
+      "note": "Acik kurgu API si"
+    },
+    {
+      "repo": "Orkas-AI/Orkas-VideoStudio",
+      "category": "general",
+      "note": "Kod ajanini video studyosuna ceviren skill seti"
+    },
+    {
+      "repo": "specstoryai/zero-to-product-video-hero",
+      "category": "promo",
+      "note": "Remotion ile yapilmis acik kaynak tanitim videosu",
+      "mode": "examples"
+    },
+    {
+      "repo": "agentskills/agentskills",
+      "category": "meta",
+      "note": "Agent Skills (SKILL.md) standardi ve belgeleri"
+    },
+    {
+      "repo": "NVIDIA/SkillSpector",
+      "category": "meta",
+      "note": "Ajan skilleri icin guvenlik tarayicisi"
+    },
+    {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "category": "list",
+      "note": "Claude Opus 5.5 ile yapilmis videolar ve promptlari"
+    },
+    {
+      "repo": "athemeroy/awesome-claude-5-5-videos",
+      "category": "list",
+      "note": "Claude 5.5 video is akislari"
+    },
+    {
+      "repo": "sergey-pimenov/awesome-web-animation",
+      "category": "list",
+      "note": "Web animasyon kutuphaneleri listesi"
+    }
+  ],
+  "exclude": {
+    "_aciklama": "Video ile ilgisiz skill yollari (regex). \"*\" tum repoyu disarida birakir.",
+    "EverMind-AI/Raven": [
+      "*"
+    ],
+    "hraness/slopcamera": [
+      "^.agents/skills/(phase-|plan-kb|query-kb|refresh-kb|percolate-kb|save-|write-phase)"
+    ],
+    "itsharex/ffmpeg-skill": [
+      "^.claude/skills/"
+    ],
+    "rock3r/cav": [
+      "^.agents/skills/babysit-pr/"
+    ],
+    "BintzGavin/helios": [
+      "^.agents/skills/skill-creator/"
+    ],
+    "kevinwatt/ffmpeg-mcp-lite": [
+      "^.claude/skills/mcp-builder/"
+    ]
+  }
+}

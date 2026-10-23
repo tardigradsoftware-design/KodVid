@@ -1,0 +1,9 @@
+video-shotcraft
+Copyright 2026 Wei Yihao
+
+Licensed under the Apache License, Version 2.0.
+
+This distribution includes DeepSeek Harness packaging, installation, continuous
+integration, and documentation changes. Third-party audio and source
+attributions remain in assets/audio/ATTRIBUTION.md and
+references/shots/ATTRIBUTION.md.

@@ -1,0 +1,14 @@
+{
+  "repo": "chenyuxiaojin/cyxj-remotion-starter",
+  "url": "https://github.com/chenyuxiaojin/cyxj-remotion-starter",
+  "sha": "58f1840545b0ea7400b905e6b3cb4953d80b19e7",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:36.091Z",
+  "skillRoots": [
+    ".claude/skills/cyxj-remotion-evolve",
+    ".claude/skills/cyxj-remotion-overlay",
+    ".claude/skills/cyxj-remotion-produce"
+  ],
+  "files": 5,
+  "droppedByBudget": 0
+}

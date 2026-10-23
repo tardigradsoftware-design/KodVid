@@ -1,0 +1,12 @@
+{
+  "repo": "cartesiancs/cartcut",
+  "url": "https://github.com/cartesiancs/cartcut",
+  "sha": "d9cbf5fe17ebd395275ccbf43be527487db9be68",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:11.452Z",
+  "skillRoots": [
+    "plugins/cartcut-editing/skills/cartcut-editing"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

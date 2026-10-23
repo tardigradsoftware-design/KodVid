@@ -1,0 +1,13 @@
+{
+  "repo": "alexgreensh/anidoodle",
+  "url": "https://github.com/alexgreensh/anidoodle",
+  "sha": "4db69644b994ae9caf9e20936506954b2f5e4872",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:43:21.679Z",
+  "skillRoots": [
+    "plugins/anidoodle/skills/anidoodle",
+    "skills/anidoodle"
+  ],
+  "files": 300,
+  "droppedByBudget": 745
+}

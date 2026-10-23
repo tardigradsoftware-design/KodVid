@@ -1,0 +1,26 @@
+{
+  "repo": "nexu-io/html-video",
+  "url": "https://github.com/nexu-io/html-video",
+  "sha": "c414ecc07f795add03807d5d9ce4baefd807cea2",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:52:11.312Z",
+  "kind": "skill",
+  "skillRoots": [
+    "templates/frame-bold-poster",
+    "templates/frame-bold-signal",
+    "templates/frame-build-minimal",
+    "templates/frame-creative-voltage",
+    "templates/frame-data-chart-nyt",
+    "templates/frame-data-rollup",
+    "templates/frame-electric-studio",
+    "templates/frame-glitch-title",
+    "templates/frame-light-leak-cinema",
+    "templates/frame-liquid-bg-hero",
+    "templates/frame-logo-outro",
+    "templates/frame-pentagram-stat",
+    "templates/frame-takram-organic",
+    "templates/vfx-text-cursor"
+  ],
+  "files": 72,
+  "droppedByBudget": 0
+}

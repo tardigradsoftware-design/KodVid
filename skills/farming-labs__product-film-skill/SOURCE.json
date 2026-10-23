@@ -1,0 +1,12 @@
+{
+  "repo": "farming-labs/product-film-skill",
+  "url": "https://github.com/farming-labs/product-film-skill",
+  "sha": "d80715c246806a386313d1d14c067c27360d69b9",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:27.656Z",
+  "skillRoots": [
+    "plugins/product-film/skills/product-film"
+  ],
+  "files": 1,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,12 @@
+{
+  "repo": "reedodev/explainer-studio",
+  "url": "https://github.com/reedodev/explainer-studio",
+  "sha": "05fdbab0e0009f1d53d9cbd157ed0b2960c9f8d8",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:01.977Z",
+  "skillRoots": [
+    "skills/explainer-studio"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

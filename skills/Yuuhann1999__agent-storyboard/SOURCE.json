@@ -1,0 +1,13 @@
+{
+  "repo": "Yuuhann1999/agent-storyboard",
+  "url": "https://github.com/Yuuhann1999/agent-storyboard",
+  "sha": "9924c97f04e1b76dabebe8fa376a5a224285aa90",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:38.011Z",
+  "skillRoots": [
+    "plugins/agent-storyboard/skills/manage-storyboard-projects",
+    "plugins/agent-storyboard/skills/process-storyboard-tasks"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

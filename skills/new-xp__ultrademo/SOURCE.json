@@ -1,0 +1,13 @@
+{
+  "repo": "new-xp/ultrademo",
+  "url": "https://github.com/new-xp/ultrademo",
+  "sha": "e7bdcfc241600b65bf6536f2c3c990a00a765b2d",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:41:03.541Z",
+  "skillRoots": [
+    ".claude/skills/ultrademo-rerun",
+    ".claude/skills/ultrademo"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

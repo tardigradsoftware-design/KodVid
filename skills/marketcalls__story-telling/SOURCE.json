@@ -1,0 +1,15 @@
+{
+  "repo": "marketcalls/story-telling",
+  "url": "https://github.com/marketcalls/story-telling",
+  "sha": "13455c837901c3813584ab38f336e5d1f18ad8fc",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:51.189Z",
+  "skillRoots": [
+    ".claude/skills/story-new",
+    ".claude/skills/story-render",
+    ".claude/skills/story-setup",
+    ".claude/skills/story-telling"
+  ],
+  "files": 19,
+  "droppedByBudget": 0
+}

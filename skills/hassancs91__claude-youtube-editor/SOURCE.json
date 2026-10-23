@@ -1,0 +1,20 @@
+{
+  "repo": "hassancs91/claude-youtube-editor",
+  "url": "https://github.com/hassancs91/claude-youtube-editor",
+  "sha": "a6ac742b44520fd3c6aeaf3cd754e113fa334fed",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:14.218Z",
+  "skillRoots": [
+    ".claude/skills/brand-setup",
+    ".claude/skills/clean-audio",
+    ".claude/skills/clean-cut",
+    ".claude/skills/fake-screencast",
+    ".claude/skills/make-tsx",
+    ".claude/skills/packaging",
+    ".claude/skills/suggest-sfx",
+    ".claude/skills/thumbnail",
+    ".claude/skills/vidtsx-2d-generator"
+  ],
+  "files": 13,
+  "droppedByBudget": 0
+}

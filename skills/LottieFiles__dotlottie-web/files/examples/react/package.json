@@ -1,0 +1,23 @@
+{
+  "name": "react-example",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite dev --port 3000",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@lottiefiles/dotlottie-react": "workspace:*",
+    "react": "^19",
+    "react-dom": "^19"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "typescript": "6.0.3",
+    "vite": "^6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "repo": "Lunamos/paper2video",
+  "url": "https://github.com/Lunamos/paper2video",
+  "sha": "fe095c0774e04df53a5520d96db003003580b975",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:04.215Z",
+  "skillRoots": [
+    "skills/paper2video"
+  ],
+  "files": 66,
+  "droppedByBudget": 0
+}

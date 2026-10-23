@@ -1,0 +1,12 @@
+{
+  "repo": "gloweaseco-leo/hyperdirector",
+  "url": "https://github.com/gloweaseco-leo/hyperdirector",
+  "sha": "220fa2ac428525ef1421784ff84b59db1e316cbd",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:40:27.166Z",
+  "skillRoots": [
+    "hyperdirector"
+  ],
+  "files": 121,
+  "droppedByBudget": 0
+}

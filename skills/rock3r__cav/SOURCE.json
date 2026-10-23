@@ -1,0 +1,15 @@
+{
+  "repo": "rock3r/cav",
+  "url": "https://github.com/rock3r/cav",
+  "sha": "b3891548ae49a8e55ca58cddeb84853a88a69c01",
+  "license": "MIT",
+  "fetchedAt": "2026-10-23T00:03:20.882Z",
+  "kind": "skill",
+  "exclude": "^.agents/skills/babysit-pr/",
+  "skillRoots": [
+    ".agents/skills/babysit-pr",
+    "plugins/cavalry/skills/cavalry"
+  ],
+  "files": 3,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,12 @@
+{
+  "repo": "NarratorAI-Studio/narrator-ai-cli-skill",
+  "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
+  "sha": "4b17c6f2175bd532c92db778a847f8fb6bdd3177",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:39:59.837Z",
+  "skillRoots": [
+    ""
+  ],
+  "files": 7,
+  "droppedByBudget": 0
+}

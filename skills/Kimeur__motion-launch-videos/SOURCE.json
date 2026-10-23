@@ -1,0 +1,23 @@
+{
+  "repo": "Kimeur/motion-launch-videos",
+  "url": "https://github.com/Kimeur/motion-launch-videos",
+  "sha": "394027b29480602eb0874df0081bcfd0de2a3a49",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:36.473Z",
+  "skillRoots": [
+    "plugins/motion-launch-videos/skills/motion-3d",
+    "plugins/motion-launch-videos/skills/motion-captions",
+    "plugins/motion-launch-videos/skills/motion-cartoon",
+    "plugins/motion-launch-videos/skills/motion-charts",
+    "plugins/motion-launch-videos/skills/motion-globe",
+    "plugins/motion-launch-videos/skills/motion-launch-videos",
+    "plugins/motion-launch-videos/skills/motion-overlays",
+    "plugins/motion-launch-videos/skills/motion-particles",
+    "plugins/motion-launch-videos/skills/motion-photo",
+    "plugins/motion-launch-videos/skills/motion-pixel",
+    "plugins/motion-launch-videos/skills/motion-shapes",
+    "plugins/motion-launch-videos/skills/motion-ui"
+  ],
+  "files": 224,
+  "droppedByBudget": 9
+}

@@ -1,0 +1,27 @@
+{
+  "repo": "itsharex/ffmpeg-skill",
+  "url": "https://github.com/itsharex/ffmpeg-skill",
+  "sha": "f62e7d0be9e1e442734034fca035852427401c4a",
+  "license": "MIT",
+  "fetchedAt": "2026-10-23T00:03:30.376Z",
+  "kind": "skill",
+  "exclude": "^.claude/skills/",
+  "skillRoots": [
+    ".claude/skills/build-artifacts",
+    ".claude/skills/ci-pipeline-synthesizer",
+    ".claude/skills/code-review",
+    ".claude/skills/concurrent-branches",
+    ".claude/skills/cross-surface-changes",
+    ".claude/skills/defect-reports",
+    ".claude/skills/destructive-operations",
+    ".claude/skills/git-hygiene",
+    ".claude/skills/github-actions",
+    ".claude/skills/mcp-server-design",
+    ".claude/skills/release-management",
+    ".claude/skills/reproducing-ci-locally",
+    ".claude/skills/verifying-external-behavior",
+    ""
+  ],
+  "files": 86,
+  "droppedByBudget": 0
+}

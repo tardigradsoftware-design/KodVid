@@ -1,0 +1,12 @@
+{
+  "repo": "sudadom/arabic-motion-graphics-skill",
+  "url": "https://github.com/sudadom/arabic-motion-graphics-skill",
+  "sha": "c437efea1daf9b1fce2b86f92a4098f2fd9df4bc",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:25.011Z",
+  "skillRoots": [
+    "skills/arabic-motion-graphics"
+  ],
+  "files": 22,
+  "droppedByBudget": 0
+}

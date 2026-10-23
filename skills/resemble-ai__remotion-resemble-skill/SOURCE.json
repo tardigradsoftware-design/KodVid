@@ -1,0 +1,12 @@
+{
+  "repo": "resemble-ai/remotion-resemble-skill",
+  "url": "https://github.com/resemble-ai/remotion-resemble-skill",
+  "sha": "d50553c1d04e87aa6c93e008658b1ef8bb884483",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:33.575Z",
+  "skillRoots": [
+    "remotion-resemble-ai"
+  ],
+  "files": 8,
+  "droppedByBudget": 0
+}

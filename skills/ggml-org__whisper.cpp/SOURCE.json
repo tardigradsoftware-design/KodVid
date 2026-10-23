@@ -1,0 +1,13 @@
+{
+  "repo": "ggml-org/whisper.cpp",
+  "url": "https://github.com/ggml-org/whisper.cpp",
+  "sha": "231638a0717b7822784297e5980965ffcec05810",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:29.923Z",
+  "kind": "guide",
+  "skillRoots": [
+    ""
+  ],
+  "files": 117,
+  "droppedByBudget": 0
+}

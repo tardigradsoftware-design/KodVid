@@ -1,0 +1,20 @@
+{
+  "repo": "iart-ai/motion-design-skills",
+  "url": "https://github.com/iart-ai/motion-design-skills",
+  "sha": "3c129f769d90a1328c209c386492333c9ac62312",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:08.588Z",
+  "skillRoots": [
+    "skills/after-effects",
+    "skills/animation-principles",
+    "skills/beat-sync-editing",
+    "skills/color-motion",
+    "skills/logo-animation",
+    "skills/motion-art-direction",
+    "skills/motion-background",
+    "skills/remotion-video",
+    "skills/shot-composition"
+  ],
+  "files": 37,
+  "droppedByBudget": 0
+}

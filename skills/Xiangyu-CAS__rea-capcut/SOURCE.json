@@ -1,0 +1,12 @@
+{
+  "repo": "Xiangyu-CAS/rea-capcut",
+  "url": "https://github.com/Xiangyu-CAS/rea-capcut",
+  "sha": "f607e3a8f678dbd9b6b775775a1289a071b1bdc1",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:26.427Z",
+  "skillRoots": [
+    "plugin/skills/reacut"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

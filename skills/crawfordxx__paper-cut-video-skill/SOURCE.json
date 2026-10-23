@@ -1,0 +1,12 @@
+{
+  "repo": "crawfordxx/paper-cut-video-skill",
+  "url": "https://github.com/crawfordxx/paper-cut-video-skill",
+  "sha": "0ff209fd72648d6eb1b2315308c19d50b74c74f9",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:07.489Z",
+  "skillRoots": [
+    "paper-cut-video"
+  ],
+  "files": 17,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,13 @@
+{
+  "repo": "heygen-com/hyperframes-launches",
+  "url": "https://github.com/heygen-com/hyperframes-launches",
+  "sha": "d7ac35069d74a3a437780579b3b7fe2f3eeace5f",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:52:24.471Z",
+  "kind": "examples",
+  "skillRoots": [
+    ""
+  ],
+  "files": 288,
+  "droppedByBudget": 52
+}

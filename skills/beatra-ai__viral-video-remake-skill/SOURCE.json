@@ -1,0 +1,12 @@
+{
+  "repo": "beatra-ai/viral-video-remake-skill",
+  "url": "https://github.com/beatra-ai/viral-video-remake-skill",
+  "sha": "0a6e12ba5605cca985e0428be02680a806503829",
+  "license": "MIT-0",
+  "fetchedAt": "2026-10-22T23:42:54.554Z",
+  "skillRoots": [
+    "skills/viral-video-teardown-remake"
+  ],
+  "files": 21,
+  "droppedByBudget": 0
+}

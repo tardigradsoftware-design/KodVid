@@ -1,0 +1,15 @@
+{
+  "repo": "Liamrjohnston/remotion-motion-graphics-skill",
+  "url": "https://github.com/Liamrjohnston/remotion-motion-graphics-skill",
+  "sha": "b860c7921f2220b9e2a84e815ba0ae7b10858f08",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:12.959Z",
+  "skillRoots": [
+    "skills/article-highlights",
+    "skills/cinematic-camera",
+    "skills/motion-graphics",
+    "skills/terminal-inserts"
+  ],
+  "files": 11,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,14 @@
+{
+  "repo": "iart-ai/data-animation-skills",
+  "url": "https://github.com/iart-ai/data-animation-skills",
+  "sha": "8ce2709c3992490251e8a991535b1945f01c6865",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:25.787Z",
+  "skillRoots": [
+    "skills/animated-infographic",
+    "skills/chart-animation",
+    "skills/presentation-video"
+  ],
+  "files": 11,
+  "droppedByBudget": 0
+}

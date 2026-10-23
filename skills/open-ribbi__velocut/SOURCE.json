@@ -1,0 +1,13 @@
+{
+  "repo": "open-ribbi/velocut",
+  "url": "https://github.com/open-ribbi/velocut",
+  "sha": "3e371c012b321d2bb3726fa340753609ddc9c88e",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:13.207Z",
+  "kind": "skill",
+  "skillRoots": [
+    "plugins/velocut/skills/director"
+  ],
+  "files": 1,
+  "droppedByBudget": 0
+}

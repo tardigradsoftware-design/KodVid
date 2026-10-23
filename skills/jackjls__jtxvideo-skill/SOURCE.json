@@ -1,0 +1,12 @@
+{
+  "repo": "jackjls/jtxvideo-skill",
+  "url": "https://github.com/jackjls/jtxvideo-skill",
+  "sha": "6b3721130a50d25419fb2fcdb79d4bd2402a0958",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:35.426Z",
+  "skillRoots": [
+    "skills/jtxvideo-skill"
+  ],
+  "files": 7,
+  "droppedByBudget": 0
+}

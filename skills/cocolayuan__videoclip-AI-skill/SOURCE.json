@@ -1,0 +1,17 @@
+{
+  "repo": "cocolayuan/videoclip-AI-skill",
+  "url": "https://github.com/cocolayuan/videoclip-AI-skill",
+  "sha": "e1d5e11e0b5de3a36cf69c4bb61dff8814cc72ea",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:31.599Z",
+  "skillRoots": [
+    "剪口播",
+    "剪辑",
+    "字幕",
+    "安装",
+    "智能划重点",
+    "自更新"
+  ],
+  "files": 17,
+  "droppedByBudget": 0
+}

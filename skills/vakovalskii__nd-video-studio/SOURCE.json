@@ -1,0 +1,13 @@
+{
+  "repo": "vakovalskii/nd-video-studio",
+  "url": "https://github.com/vakovalskii/nd-video-studio",
+  "sha": "6243cd7cd7b3a9e32efe2c847b0d113687303c35",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:45.905Z",
+  "skillRoots": [
+    "skills/nd-video",
+    "skills/ndt-content"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

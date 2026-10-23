@@ -1,0 +1,25 @@
+{
+  "repo": "erduo1998-cell/erduo-broll-loop-engineering",
+  "url": "https://github.com/erduo1998-cell/erduo-broll-loop-engineering",
+  "sha": "741583ed973f9a431fcb262396556eae7fd13f15",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:23.874Z",
+  "skillRoots": [
+    "erduo-broll-loop-engineering",
+    "erduo-broll-loop-engineering/stages/broll-assets",
+    "erduo-broll-loop-engineering/stages/broll-director",
+    "erduo-broll-loop-engineering/stages/broll-hybrid-integrate",
+    "erduo-broll-loop-engineering/stages/broll-hybrid-render",
+    "erduo-broll-loop-engineering/stages/broll-master-build",
+    "erduo-broll-loop-engineering/stages/broll-master-integrate",
+    "erduo-broll-loop-engineering/stages/broll-onboarding",
+    "erduo-broll-loop-engineering/stages/broll-remotion-build",
+    "erduo-broll-loop-engineering/stages/broll-remotion-integrate",
+    "erduo-broll-loop-engineering/stages/broll-remotion-render",
+    "erduo-broll-loop-engineering/stages/broll-render",
+    "erduo-broll-loop-engineering/stages/broll-runtime-plan",
+    "erduo-broll-loop-engineering/stages/broll-shot-export"
+  ],
+  "files": 300,
+  "droppedByBudget": 200
+}

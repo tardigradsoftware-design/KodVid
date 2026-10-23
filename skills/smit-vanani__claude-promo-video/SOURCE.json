@@ -1,0 +1,12 @@
+{
+  "repo": "smit-vanani/claude-promo-video",
+  "url": "https://github.com/smit-vanani/claude-promo-video",
+  "sha": "4f175c71619eb456fa449cf1a7e26c953c79f8e7",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:15.209Z",
+  "skillRoots": [
+    "skills/promo-video"
+  ],
+  "files": 4,
+  "droppedByBudget": 0
+}

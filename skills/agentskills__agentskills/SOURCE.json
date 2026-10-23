@@ -1,0 +1,13 @@
+{
+  "repo": "agentskills/agentskills",
+  "url": "https://github.com/agentskills/agentskills",
+  "sha": "69ef37e9424c0a7ea9dd2293b559e43ec8176379",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:52:44.267Z",
+  "kind": "guide",
+  "skillRoots": [
+    ""
+  ],
+  "files": 19,
+  "droppedByBudget": 0
+}

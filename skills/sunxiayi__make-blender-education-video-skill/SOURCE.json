@@ -1,0 +1,12 @@
+{
+  "repo": "sunxiayi/make-blender-education-video-skill",
+  "url": "https://github.com/sunxiayi/make-blender-education-video-skill",
+  "sha": "8fcc2095d0b55a9fef06d920457a9fa32a4cf568",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:43.535Z",
+  "skillRoots": [
+    "skills/make-blender-education-video"
+  ],
+  "files": 15,
+  "droppedByBudget": 0
+}

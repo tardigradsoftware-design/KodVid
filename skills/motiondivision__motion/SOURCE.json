@@ -1,0 +1,14 @@
+{
+  "repo": "motiondivision/motion",
+  "url": "https://github.com/motiondivision/motion",
+  "sha": "99e7f5aa31e5f55e024b6553cbb3906248eac8de",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:37.840Z",
+  "kind": "skill",
+  "skillRoots": [
+    ".agents/skills/fix",
+    ".agents/skills/improve"
+  ],
+  "files": 5,
+  "droppedByBudget": 0
+}

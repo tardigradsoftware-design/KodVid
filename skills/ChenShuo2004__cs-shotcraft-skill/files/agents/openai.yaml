@@ -1,0 +1,9 @@
+# Codex skill UI metadata — schema: skill-creator references/openai_yaml.md.
+# Read by the Codex harness (not the agent); Claude Code reads SKILL.md frontmatter instead.
+interface:
+  display_name: "CS Shotcraft"
+  short_description: "用真实产品界面与镜头表制作可验收的产品宣传片：逻辑像素重画或真机抓图，配乐默认不做"
+  icon_small: "./assets/brand/logo-mark.svg"
+  icon_large: "./assets/brand/logo-lockup.svg"
+  brand_color: "#D3923C"
+  default_prompt: "使用 $cs-shotcraft-skill，把我的前端项目制作成产品宣传片。先做最小产品检查并推荐制作路径。"

@@ -1,0 +1,13 @@
+{
+  "repo": "NiceBlueChai/canvas-motion-video",
+  "url": "https://github.com/NiceBlueChai/canvas-motion-video",
+  "sha": "e2cd0271374545ce25b70c579acb65e9ed3288a6",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:13.623Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/canvas-motion-video"
+  ],
+  "files": 6,
+  "droppedByBudget": 0
+}

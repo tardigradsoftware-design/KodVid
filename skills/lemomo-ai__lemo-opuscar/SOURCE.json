@@ -1,0 +1,13 @@
+{
+  "repo": "lemomo-ai/lemo-opuscar",
+  "url": "https://github.com/lemomo-ai/lemo-opuscar",
+  "sha": "3961ddb3d24d8876e0e2754f7790d66908acee51",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:59.511Z",
+  "skillRoots": [
+    "plugin/skills/lemo-opuscar",
+    "tools/directory"
+  ],
+  "files": 7,
+  "droppedByBudget": 0
+}

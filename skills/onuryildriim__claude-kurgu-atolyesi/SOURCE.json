@@ -1,0 +1,13 @@
+{
+  "repo": "onuryildriim/claude-kurgu-atolyesi",
+  "url": "https://github.com/onuryildriim/claude-kurgu-atolyesi",
+  "sha": "4edc6445f404c116c870b589458b2218fa0cdd20",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:32.963Z",
+  "skillRoots": [
+    ".claude/skills/marka-kimligi",
+    ".claude/skills/video-kurgula"
+  ],
+  "files": 8,
+  "droppedByBudget": 0
+}

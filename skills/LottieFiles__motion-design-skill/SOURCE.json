@@ -1,0 +1,13 @@
+{
+  "repo": "LottieFiles/motion-design-skill",
+  "url": "https://github.com/LottieFiles/motion-design-skill",
+  "sha": "f9a8a041b85185ee4881b3471d3415e939aac772",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:13.588Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/motion-design"
+  ],
+  "files": 17,
+  "droppedByBudget": 0
+}

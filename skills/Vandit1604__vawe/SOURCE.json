@@ -1,0 +1,17 @@
+{
+  "repo": "Vandit1604/vawe",
+  "url": "https://github.com/Vandit1604/vawe",
+  "sha": "fe6d300447d9b13d9df5ad0c2258eaed4f0ffa4c",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:40:36.625Z",
+  "skillRoots": [
+    "skills/html-to-video",
+    "skills/vawe-brief",
+    "skills/vawe-critique",
+    "skills/vawe-page",
+    "skills/vawe-reference",
+    "skills/vawe-transitions"
+  ],
+  "files": 6,
+  "droppedByBudget": 0
+}

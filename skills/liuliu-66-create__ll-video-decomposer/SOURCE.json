@@ -1,0 +1,13 @@
+{
+  "repo": "liuliu-66-create/ll-video-decomposer",
+  "url": "https://github.com/liuliu-66-create/ll-video-decomposer",
+  "sha": "5e00606ce3f1708d380cc6e3e337320cc5af2c80",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:30.743Z",
+  "skillRoots": [
+    "codex/ll-video-decomposer",
+    "workbuddy/ll-video-decomposer"
+  ],
+  "files": 35,
+  "droppedByBudget": 0
+}

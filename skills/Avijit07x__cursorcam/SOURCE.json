@@ -1,0 +1,13 @@
+{
+  "repo": "Avijit07x/cursorcam",
+  "url": "https://github.com/Avijit07x/cursorcam",
+  "sha": "baaba0615188d7652c4e005481ab15df591bfc4d",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:40:53.177Z",
+  "skillRoots": [
+    "agent-plugin/skills/cursorcam",
+    "plugin/skills/cursorcam"
+  ],
+  "files": 8,
+  "droppedByBudget": 0
+}

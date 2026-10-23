@@ -1,0 +1,17 @@
+{
+  "repo": "Zane-0x5a/remotion-director",
+  "url": "https://github.com/Zane-0x5a/remotion-director",
+  "sha": "fe5d0eb5e3caee3cd9f4920cadbb847bd08fcd53",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:03.882Z",
+  "skillRoots": [
+    "claude-plugin/skills/create",
+    "claude-plugin/skills/critic-loop",
+    "codex-plugin/internal/skills/critic-loop",
+    "codex-plugin/skills/remotion-director",
+    "skills/create",
+    "skills/critic-loop"
+  ],
+  "files": 12,
+  "droppedByBudget": 0
+}

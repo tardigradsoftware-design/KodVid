@@ -1,0 +1,12 @@
+{
+  "repo": "mattivilola/brag-codex",
+  "url": "https://github.com/mattivilola/brag-codex",
+  "sha": "da5c32439c0d9e1396ffb25870d934d46f5bcabd",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:06.432Z",
+  "skillRoots": [
+    "skills/brag"
+  ],
+  "files": 22,
+  "droppedByBudget": 0
+}

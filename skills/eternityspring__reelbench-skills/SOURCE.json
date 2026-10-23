@@ -1,0 +1,14 @@
+{
+  "repo": "eternityspring/reelbench-skills",
+  "url": "https://github.com/eternityspring/reelbench-skills",
+  "sha": "0d2743ade386195caeb6d156da2810cdf6e35a03",
+  "license": "Apache-2.0",
+  "fetchedAt": "2026-10-22T23:43:28.074Z",
+  "skillRoots": [
+    "skills/video-scrub",
+    "skills/video-shots",
+    "skills/video-sync"
+  ],
+  "files": 29,
+  "droppedByBudget": 0
+}

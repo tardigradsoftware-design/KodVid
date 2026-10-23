@@ -1,0 +1,12 @@
+{
+  "repo": "jammaru/launch-video-craft",
+  "url": "https://github.com/jammaru/launch-video-craft",
+  "sha": "fee96325c26aee06ac68d905213d137cbf714a99",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:25.091Z",
+  "skillRoots": [
+    "skills/launch-video-craft"
+  ],
+  "files": 45,
+  "droppedByBudget": 0
+}

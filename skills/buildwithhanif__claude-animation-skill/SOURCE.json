@@ -1,0 +1,12 @@
+{
+  "repo": "buildwithhanif/claude-animation-skill",
+  "url": "https://github.com/buildwithhanif/claude-animation-skill",
+  "sha": "4ddb8c80fdec96dc9f55d4b9bdee60bde6f0134b",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:05.710Z",
+  "skillRoots": [
+    "plugins/claude-animation/skills/claude-animation"
+  ],
+  "files": 30,
+  "droppedByBudget": 0
+}

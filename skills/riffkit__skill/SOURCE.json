@@ -1,0 +1,14 @@
+{
+  "repo": "riffkit/skill",
+  "url": "https://github.com/riffkit/skill",
+  "sha": "a27852c2d8ab7fd29bc9a9a66e64ce9fe4571458",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:51.407Z",
+  "skillRoots": [
+    "",
+    "plugins/riffkit/skills/riffkit",
+    "riffkit"
+  ],
+  "files": 29,
+  "droppedByBudget": 0
+}

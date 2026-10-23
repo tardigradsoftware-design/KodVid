@@ -1,0 +1,13 @@
+{
+  "repo": "vincentventalon/my-claude-skills",
+  "url": "https://github.com/vincentventalon/my-claude-skills",
+  "sha": "94242d03c5a9016e00338807d115d2775047c4ec",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:36.118Z",
+  "skillRoots": [
+    "search-console/skills/search-console",
+    "video-editing/skills/video-editing"
+  ],
+  "files": 18,
+  "droppedByBudget": 0
+}

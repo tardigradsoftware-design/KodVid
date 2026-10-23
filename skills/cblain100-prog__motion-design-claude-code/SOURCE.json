@@ -1,0 +1,22 @@
+{
+  "repo": "cblain100-prog/motion-design-claude-code",
+  "url": "https://github.com/cblain100-prog/motion-design-claude-code",
+  "sha": "a89fc5494f509f44bd117bacb7aafc6eed3a2953",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:23.010Z",
+  "skillRoots": [
+    ".claude/skills/hyperframes-animation",
+    ".claude/skills/hyperframes-audio",
+    ".claude/skills/hyperframes-cli",
+    ".claude/skills/hyperframes-core",
+    ".claude/skills/hyperframes-creative",
+    ".claude/skills/hyperframes-keyframes",
+    ".claude/skills/hyperframes-registry",
+    ".claude/skills/hyperframes",
+    ".claude/skills/media-use",
+    ".claude/skills/motion-design",
+    ".claude/skills/product-launch-video"
+  ],
+  "files": 264,
+  "droppedByBudget": 143
+}

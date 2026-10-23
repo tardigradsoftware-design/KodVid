@@ -1,0 +1,12 @@
+{
+  "repo": "hamen/app-promo-reel",
+  "url": "https://github.com/hamen/app-promo-reel",
+  "sha": "c29072d608dfc6231b6411f4321161dca41678aa",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:30.518Z",
+  "skillRoots": [
+    "skills/app-promo-reel"
+  ],
+  "files": 29,
+  "droppedByBudget": 0
+}

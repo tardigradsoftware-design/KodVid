@@ -1,0 +1,17 @@
+{
+  "repo": "mrieck/demoday-claude-plugin",
+  "url": "https://github.com/mrieck/demoday-claude-plugin",
+  "sha": "5d89ab6fb30461ae3d6ec6bfae9b06fff08781ce",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:22.060Z",
+  "skillRoots": [
+    "",
+    "skills/demo-assembly",
+    "skills/demo-capture",
+    "skills/demo-script",
+    "skills/demo-shorts",
+    "skills/demo-video"
+  ],
+  "files": 59,
+  "droppedByBudget": 0
+}

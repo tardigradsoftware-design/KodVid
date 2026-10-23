@@ -1,0 +1,13 @@
+{
+  "repo": "jhartquist/claude-remotion-kickstart",
+  "url": "https://github.com/jhartquist/claude-remotion-kickstart",
+  "sha": "87c00f498fe0211b7703ce8500c9a3c7452ce689",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:51:54.117Z",
+  "kind": "guide",
+  "skillRoots": [
+    ""
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

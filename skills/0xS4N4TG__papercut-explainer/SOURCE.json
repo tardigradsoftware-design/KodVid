@@ -1,0 +1,20 @@
+{
+  "repo": "0xS4N4TG/papercut-explainer",
+  "url": "https://github.com/0xS4N4TG/papercut-explainer",
+  "sha": "ff8223abc8136cc09e8d7e9b62ecb5d080c389e1",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:40.917Z",
+  "skillRoots": [
+    "skills/papercut-build",
+    "skills/papercut-explainer",
+    "skills/papercut-hook",
+    "skills/papercut-qa",
+    "skills/papercut-script",
+    "skills/papercut-setup",
+    "skills/papercut-storyboard",
+    "skills/papercut-strategy",
+    "skills/papercut-voice"
+  ],
+  "files": 19,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,14 @@
+{
+  "repo": "sharon-laicc/viral-video-decomposer",
+  "url": "https://github.com/sharon-laicc/viral-video-decomposer",
+  "sha": "34093598d48bda6492f687c5eae3472b782d0637",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:33.545Z",
+  "skillRoots": [
+    "",
+    "plugins/video-structure-analyzer",
+    "skill"
+  ],
+  "files": 20,
+  "droppedByBudget": 0
+}

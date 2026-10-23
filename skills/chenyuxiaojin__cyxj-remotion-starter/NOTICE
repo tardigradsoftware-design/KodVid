@@ -1,0 +1,17 @@
+# 版权与第三方许可
+
+作者有权许可的软件代码及配套使用文档采用 [MIT License](LICENSE)：允许免费使用、修改、分发和商用；分发代码或其重要部分时，保留版权声明与许可全文。
+
+MIT 覆盖本仓库作者有权许可的程序和配套技术说明，不代替下列字体、媒体、参考资料或依赖的授权。
+
+## 字体
+
+- `NotoSansSC*.woff2`：SIL Open Font License 1.1，保留原作者声明；[许可全文](template/public/fonts/NotoSansSC-OFL.txt) · [上游](https://github.com/google/fonts/tree/main/ofl/notosanssc)。
+- `SpaceMono*.woff2`：SIL Open Font License 1.1，保留原作者声明；[许可全文](template/public/fonts/SpaceMono-OFL.txt) · [上游](https://github.com/google/fonts/tree/main/ofl/spacemono)。
+
+## 媒体、参考资料与依赖
+
+- 视频、音频、截图、字幕、人物肖像、品牌和用户替换素材不因程序采用 MIT 而自动获得独立内容授权。
+- Remotion 遵循其[自身许可证](https://www.remotion.dev/license)，不是由本仓库的 MIT 再授权；其他依赖同样保留各自许可。引用的 `cyxj-remotion` 共享代码按其仓库许可使用。
+
+本文件说明代码与其他内容的范围，不对 MIT 代码增加额外限制。仓库访问权限与代码许可证是两回事；本次许可不改变仓库的公开或私有状态。

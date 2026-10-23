@@ -1,0 +1,13 @@
+{
+  "repo": "ManimCommunity/manim-voiceover",
+  "url": "https://github.com/ManimCommunity/manim-voiceover",
+  "sha": "3dc0d95d2f1d9d0937872b3dd68c7b38c4dfc96a",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:05.347Z",
+  "kind": "guide",
+  "skillRoots": [
+    ""
+  ],
+  "files": 24,
+  "droppedByBudget": 0
+}

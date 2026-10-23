@@ -1,0 +1,23 @@
+cinematic-product-promo-skill
+
+This distribution contains software and documentation from video-shotcraft:
+https://github.com/Vincentwei1021/video-shotcraft
+Source snapshot: 6c116cbd24eeb43c99d396696b509f8d88e58789
+
+Copyright 2026 Wei Yihao
+
+Licensed under the Apache License, Version 2.0. See LICENSE for the full terms.
+
+Modifications by kiki-lgtm-dot, 2026-09-04:
+- Renamed the repository and installable skill to cinematic-product-promo-skill.
+- Updated repository, installation, and Codex/Claude plugin metadata.
+- Added prominent upstream attribution and distribution notes.
+- Moved upstream GitHub Actions workflows to `docs/upstream-workflows/` as
+  inactive references. The target repository does not mirror the upstream
+  release media or grant this publishing credential workflow-management scope.
+
+The bundled audio assets retain their own source and license terms. See:
+assets/audio/ATTRIBUTION.md
+
+Remotion is separately licensed. See:
+https://github.com/remotion-dev/remotion/blob/main/LICENSE.md

@@ -1,0 +1,12 @@
+{
+  "repo": "Upload-Post/avatar-mix",
+  "url": "https://github.com/Upload-Post/avatar-mix",
+  "sha": "01f91ad5b0e1e16b727f72aa8480b0373828b44b",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:56.802Z",
+  "skillRoots": [
+    ".claude/skills/avatar-mix"
+  ],
+  "files": 2,
+  "droppedByBudget": 0
+}

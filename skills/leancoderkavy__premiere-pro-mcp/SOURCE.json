@@ -1,0 +1,15 @@
+{
+  "repo": "leancoderkavy/premiere-pro-mcp",
+  "url": "https://github.com/leancoderkavy/premiere-pro-mcp",
+  "sha": "1cca7483e3370766bba853a8004301407183b2e3",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:13.248Z",
+  "skillRoots": [
+    "claude-plugins/premiere-pro/skills/develop-premiere-pro-mcp",
+    "claude-plugins/premiere-pro/skills/edit-premiere-project",
+    "plugins/premiere-pro/skills/develop-premiere-pro-mcp",
+    "plugins/premiere-pro/skills/edit-premiere-project"
+  ],
+  "files": 6,
+  "droppedByBudget": 0
+}

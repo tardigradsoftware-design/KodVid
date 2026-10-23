@@ -1,0 +1,26 @@
+{
+  "repo": "hraness/slopcamera",
+  "url": "https://github.com/hraness/slopcamera",
+  "sha": "0b228051474d7d9ac37f8a3e368d35718ad0441d",
+  "license": "MIT",
+  "fetchedAt": "2026-10-23T00:03:22.234Z",
+  "kind": "skill",
+  "exclude": "^.agents/skills/(phase-|plan-kb|query-kb|refresh-kb|percolate-kb|save-|write-phase)",
+  "skillRoots": [
+    ".agents/skills/cinematic-pack-authoring",
+    ".agents/skills/percolate-kb",
+    ".agents/skills/phase-final-reviewer",
+    ".agents/skills/phase-implementer",
+    ".agents/skills/phase-orchestrator",
+    ".agents/skills/phase-reviewer",
+    ".agents/skills/plan-kb",
+    ".agents/skills/query-kb",
+    ".agents/skills/refresh-kb",
+    ".agents/skills/save-pdf-kb",
+    ".agents/skills/save-url-kb",
+    ".agents/skills/write-phase-plan",
+    "skills/slopcamera"
+  ],
+  "files": 39,
+  "droppedByBudget": 0
+}

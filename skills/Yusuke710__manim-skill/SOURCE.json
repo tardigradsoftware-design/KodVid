@@ -1,0 +1,12 @@
+{
+  "repo": "Yusuke710/manim-skill",
+  "url": "https://github.com/Yusuke710/manim-skill",
+  "sha": "a0048d9e265499038f34a9aa58ff16d306b5034c",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:42.404Z",
+  "skillRoots": [
+    "skills/manim-skill"
+  ],
+  "files": 6,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,12 @@
+{
+  "repo": "AmitSubhash/3brown1blue",
+  "url": "https://github.com/AmitSubhash/3brown1blue",
+  "sha": "fd9bf9c69ac33519acc00dc7faa21bd14b241e54",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:46.883Z",
+  "skillRoots": [
+    "src/three_b1b/skill"
+  ],
+  "files": 48,
+  "droppedByBudget": 0
+}

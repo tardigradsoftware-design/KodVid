@@ -1,0 +1,12 @@
+{
+  "repo": "fltman/infofilm",
+  "url": "https://github.com/fltman/infofilm",
+  "sha": "3b0ea1b1fa049b7672faba386a897452d4d3610c",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:59.093Z",
+  "skillRoots": [
+    "skills/infofilm"
+  ],
+  "files": 64,
+  "droppedByBudget": 0
+}

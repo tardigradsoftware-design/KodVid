@@ -1,0 +1,12 @@
+{
+  "repo": "Aaryan-Kapoor/video-production-skill",
+  "url": "https://github.com/Aaryan-Kapoor/video-production-skill",
+  "sha": "662738c012174788d860fdee9627239e23cffef6",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:21.074Z",
+  "skillRoots": [
+    "skills/video-production"
+  ],
+  "files": 7,
+  "droppedByBudget": 0
+}

@@ -1,0 +1,13 @@
+{
+  "repo": "memex-lab/product-launch-video-skill",
+  "url": "https://github.com/memex-lab/product-launch-video-skill",
+  "sha": "9de027d1947ce8f8b60ccf70aa89e482bf80ecea",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:09.837Z",
+  "skillRoots": [
+    "skills/gemini-tts",
+    "skills/product-launch-video"
+  ],
+  "files": 4,
+  "droppedByBudget": 0
+}

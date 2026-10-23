@@ -1,0 +1,13 @@
+{
+  "repo": "Monet-AI-Editor/Monet",
+  "url": "https://github.com/Monet-AI-Editor/Monet",
+  "sha": "74fcb1646a2329dfa35acfe7b3726491544fca18",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:24.090Z",
+  "skillRoots": [
+    "",
+    "resources/remotion-skill"
+  ],
+  "files": 48,
+  "droppedByBudget": 0
+}

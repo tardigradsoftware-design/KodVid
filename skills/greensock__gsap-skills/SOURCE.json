@@ -1,0 +1,20 @@
+{
+  "repo": "greensock/gsap-skills",
+  "url": "https://github.com/greensock/gsap-skills",
+  "sha": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:52:12.964Z",
+  "kind": "skill",
+  "skillRoots": [
+    "skills/gsap-core",
+    "skills/gsap-frameworks",
+    "skills/gsap-performance",
+    "skills/gsap-plugins",
+    "skills/gsap-react",
+    "skills/gsap-scrolltrigger",
+    "skills/gsap-timeline",
+    "skills/gsap-utils"
+  ],
+  "files": 8,
+  "droppedByBudget": 0
+}

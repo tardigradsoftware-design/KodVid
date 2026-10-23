@@ -1,0 +1,17 @@
+{
+  "repo": "AgriciDaniel/claude-gif",
+  "url": "https://github.com/AgriciDaniel/claude-gif",
+  "sha": "7bb7e475612e7003351ea4d4186985b9c282659f",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:17.253Z",
+  "skillRoots": [
+    "skills/claude-gif-convert",
+    "skills/claude-gif-create",
+    "skills/claude-gif-edit",
+    "skills/claude-gif-generate",
+    "skills/claude-gif-optimize",
+    "skills/claude-gif"
+  ],
+  "files": 18,
+  "droppedByBudget": 0
+}

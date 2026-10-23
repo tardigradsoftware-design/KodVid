@@ -1,0 +1,12 @@
+{
+  "repo": "video-db/skills",
+  "url": "https://github.com/video-db/skills",
+  "sha": "b47b587e282bc95a0ec4e8a25fc72a8600941341",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:10.995Z",
+  "skillRoots": [
+    "python"
+  ],
+  "files": 22,
+  "droppedByBudget": 0
+}

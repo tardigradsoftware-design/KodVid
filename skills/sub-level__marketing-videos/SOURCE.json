@@ -1,0 +1,16 @@
+{
+  "repo": "sub-level/marketing-videos",
+  "url": "https://github.com/sub-level/marketing-videos",
+  "sha": "696073f596079c137cb8dffa00c4bb56dc508308",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:32.557Z",
+  "skillRoots": [
+    ".claude/skills/ai-cinematic-broll",
+    ".claude/skills/device-3d-stage",
+    ".claude/skills/motion-from-reference",
+    ".claude/skills/remotion-marketing-video",
+    ".claude/skills/video-audio-stack"
+  ],
+  "files": 11,
+  "droppedByBudget": 0
+}

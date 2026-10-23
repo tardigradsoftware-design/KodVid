@@ -1,0 +1,12 @@
+{
+  "repo": "EGSECDA/vocaloid-style-mv-pipeline",
+  "url": "https://github.com/EGSECDA/vocaloid-style-mv-pipeline",
+  "sha": "13b380dab077d4c8ea956825c9693c720e0c2b91",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:43:36.333Z",
+  "skillRoots": [
+    "skills/vocaloid-style-mv"
+  ],
+  "files": 98,
+  "droppedByBudget": 0
+}

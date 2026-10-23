@@ -1,0 +1,12 @@
+{
+  "repo": "erduo1998-cell/vidmuse-video-creator",
+  "url": "https://github.com/erduo1998-cell/vidmuse-video-creator",
+  "sha": "d4bd16dfbd332ce247d51d11e12a949cbbb810dc",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:40:16.454Z",
+  "skillRoots": [
+    "skills/vidmuse-video-creator"
+  ],
+  "files": 11,
+  "droppedByBudget": 0
+}

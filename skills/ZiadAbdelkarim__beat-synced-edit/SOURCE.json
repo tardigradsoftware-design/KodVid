@@ -1,0 +1,12 @@
+{
+  "repo": "ZiadAbdelkarim/beat-synced-edit",
+  "url": "https://github.com/ZiadAbdelkarim/beat-synced-edit",
+  "sha": "48c09c92ee69c2d89b7e44b146bbd7b9c26fff08",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:42:29.568Z",
+  "skillRoots": [
+    ".claude/skills/beat-sync-edit"
+  ],
+  "files": 1,
+  "droppedByBudget": 0
+}

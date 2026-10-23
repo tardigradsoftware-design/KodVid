@@ -1,0 +1,21 @@
+{
+  "repo": "timscheuerai/launch-video-kit",
+  "url": "https://github.com/timscheuerai/launch-video-kit",
+  "sha": "7e2629c900b17fb7203976e7cb6cf3b2c92b4e9b",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:18.418Z",
+  "skillRoots": [
+    "skills/launch-brand",
+    "skills/launch-film",
+    "skills/launch-mix",
+    "skills/launch-motion",
+    "skills/launch-review",
+    "skills/launch-score",
+    "skills/launch-sound",
+    "skills/launch-story",
+    "skills/launch-voice",
+    "skills/launch-world"
+  ],
+  "files": 48,
+  "droppedByBudget": 0
+}

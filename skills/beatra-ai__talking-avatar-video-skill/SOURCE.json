@@ -1,0 +1,12 @@
+{
+  "repo": "beatra-ai/talking-avatar-video-skill",
+  "url": "https://github.com/beatra-ai/talking-avatar-video-skill",
+  "sha": "3f16939496ebdb18a91ad8db377055b7970892a3",
+  "license": "MIT-0",
+  "fetchedAt": "2026-10-22T23:42:59.432Z",
+  "skillRoots": [
+    "skills/talking-avatar-video"
+  ],
+  "files": 14,
+  "droppedByBudget": 0
+}

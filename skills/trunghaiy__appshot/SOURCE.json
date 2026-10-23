@@ -1,0 +1,15 @@
+{
+  "repo": "trunghaiy/appshot",
+  "url": "https://github.com/trunghaiy/appshot",
+  "sha": "4c3853ff81383604485d7d6e5702d7da586e4d4f",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:01.126Z",
+  "skillRoots": [
+    "skills/appshot-core",
+    "skills/appshot-images",
+    "skills/appshot-videos",
+    "skills/appshot-web-videos"
+  ],
+  "files": 8,
+  "droppedByBudget": 0
+}

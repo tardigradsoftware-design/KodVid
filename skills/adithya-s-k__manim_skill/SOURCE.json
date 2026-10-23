@@ -1,0 +1,14 @@
+{
+  "repo": "adithya-s-k/manim_skill",
+  "url": "https://github.com/adithya-s-k/manim_skill",
+  "sha": "cef045011722d285692e3381d12d4d637da56e18",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:40.962Z",
+  "skillRoots": [
+    "skills/manim-composer",
+    "skills/manimce-best-practices",
+    "skills/manimgl-best-practices"
+  ],
+  "files": 149,
+  "droppedByBudget": 0
+}

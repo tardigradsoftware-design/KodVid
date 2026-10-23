@@ -1,0 +1,13 @@
+{
+  "repo": "Science-Prof-Robot/recursive-math-animator",
+  "url": "https://github.com/Science-Prof-Robot/recursive-math-animator",
+  "sha": "e60397eb52cc09987740274db804609e2969271e",
+  "license": "MIT",
+  "fetchedAt": "2026-10-22T23:41:55.394Z",
+  "skillRoots": [
+    "recursive-maths-animator-physics",
+    "recursive-maths-animator"
+  ],
+  "files": 30,
+  "droppedByBudget": 0
+}
