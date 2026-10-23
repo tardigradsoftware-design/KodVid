@@ -9,6 +9,8 @@ Açık kaynaktaki koddan video projelerini tek yerde toplar. HyperFrames, Remoti
 | Klasör / dosya | Ne işe yarar |
 |---|---|
 | [AGENT.md](AGENT.md) | Ajanın giriş noktası. Görev için doğru skill'i nasıl seçeceğini anlatır. |
+| [setup/](setup/) | Ajanın ortamını kuran ve render eden betikler. |
+| [catalog/index/](catalog/index/) | Motor başına küçük skill dizinleri. Ajan bunları okur. |
 | [catalog/skills.json](catalog/skills.json) | Tüm skill'lerin makine okunur dizini. |
 | [catalog/repos.json](catalog/repos.json) | Bulunan tüm repolar: lisans, yıldız, kategori, durum. |
 | [catalog/CATALOG.md](catalog/CATALOG.md) | Aynı katalog, insan için tablo halinde. |

@@ -225,5 +225,6 @@ fs.writeFileSync(path.join(CATALOG, 'repos.json'), JSON.stringify(repoOut, null,
 fs.writeFileSync(path.join(CATALOG, 'skills.json'), JSON.stringify(skills, null, 2));
 fs.writeFileSync(path.join(CATALOG, 'CATALOG.md'), catalogMd(repoOut, skills));
 fs.writeFileSync(path.join(ROOT, 'THIRD_PARTY_NOTICES.md'), noticesMd(repos));
+console.log((await ex('node', [path.join(ROOT, 'scripts', 'make-index.mjs')])).stdout.trim());
 const by = (s) => repoOut.filter((r) => r.status === s).length;
 console.log(`Bitti. repo=${repoOut.length} repoda=${by('vendored')} yerel=${by('local-sync')} katalog=${by('catalog-only')} skill=${skills.length}`);

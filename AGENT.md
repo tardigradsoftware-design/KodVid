@@ -3,27 +3,43 @@
 You are a coding agent that makes videos from code. This repository is your skill library.
 Read this file first. Load other files only when the task needs them.
 
+## Session start
+
+The sandbox can reset at any time. Files under `/home/user` survive; system packages do not.
+Run this at the start of every session, and again if `node`, `ffmpeg` or Chrome stops working:
+
+```bash
+cd /home/user && ([ -d KodVid ] && git -C KodVid pull -q || git clone -q --depth 1 https://github.com/tardigradsoftware-design/KodVid.git)
+bash /home/user/KodVid/setup/bootstrap.sh
+export PATH="$HOME/.kodvid/node/bin:$PATH" TMPDIR="$HOME/.tmp"
+```
+
+Do not render until the script prints `HAZIR`.
+
 ## How to find a skill
 
-1. Open `catalog/skills.json`. Each entry has `name`, `description`, `engines`, `category`, `kind`, `dir` and `path`.
-2. Pick 1 to 3 skills whose `description` matches the task. Skip entries that have `duplicateOf`.
-3. Read the skill's `SKILL.md` at `path`. Then read only the reference files that `SKILL.md` points to, inside `dir`.
-4. Follow the skill. If two skills disagree, the more specific one wins.
+Do not read `catalog/skills.json` whole. It is too large for your context.
 
-`kind` values:
+1. Open `catalog/index/README.md`. It lists one small file per engine.
+2. Open the file for your engine, for example `catalog/index/hyperframes.md`.
+3. Pick 1 to 3 skills whose description matches the task.
+4. Read `SKILL.md` in that skill's folder. Then read only the files that `SKILL.md` points to.
+5. Follow the skill. If two skills disagree, the more specific one wins.
+
+Each index line shows the skill `kind`:
 - `skill`: a standard Agent Skill with a `SKILL.md`.
 - `guide`: a repo without `SKILL.md`; the entry file is an agent guide such as `AGENTS.md` or `CLAUDE.md`.
 - `examples`: real project source code to learn patterns from. Do not copy brand assets.
 
 `catalog/repos.json` lists every known project, including ones whose files are not in this repo.
-Their `status` is `local-sync` (files can be downloaded to `local/` with `node scripts/sync-local.mjs`) or `catalog-only` (link only).
+Their `status` is `local-sync` (license forbids copying here; clone the public repo yourself when needed) or `catalog-only` (link only).
 
 ## Pick an engine
 
 | Goal | Engine | Start with |
 |---|---|---|
 | Promo, launch film, motion graphics, kinetic type | HyperFrames (HTML + GSAP) | `skills/heygen-com__hyperframes/files/skills/hyperframes` |
-| Same, in React | Remotion | `local/remotion-dev__skills` (run `node scripts/sync-local.mjs remotion-dev/skills` first) |
+| Same, in React | Remotion | Not stored here for license reasons. Run `git clone -q --depth 1 https://github.com/remotion-dev/skills /home/user/remotion-skills` and read its `skills/` folder |
 | Math, science, algorithm explainer | Manim | `skills/adithya-s-k__manim_skill/files/skills/manim-composer`, `skills/Yusuke710__manim-skill/files/skills/manim-skill` |
 | Fast narrated explainer | HTML + TTS | `skills/vincentsch__explainroo/files/skills/explainroo` |
 | Animated charts, data video | HTML + GSAP | `skills/iart-ai__data-animation-skills/files/skills/chart-animation` |
@@ -36,15 +52,29 @@ Their `status` is `local-sync` (files can be downloaded to `local/` with `node s
 | Port a Remotion project to HyperFrames | HyperFrames | `skills/heygen-com__hyperframes/files/skills/remotion-to-hyperframes` |
 | Real launch video source code | HyperFrames | `skills/heygen-com__hyperframes-launches/files` |
 
-For anything else, search `catalog/skills.json` by `engines` and `category`.
+For anything else, use `catalog/index/`.
+
+In this sandbox, prefer HyperFrames. It needs only Node, FFmpeg and Chrome, which `bootstrap.sh` installs.
+Manim and Remotion work too but need heavier setup.
 
 ## Standard workflow
 
 1. Write a short brief: length, resolution, frame rate, aspect ratio, copy, audio.
 2. Plan scenes and timing before writing code. Audio sets the clock when there is narration.
 3. Write the composition. Every frame must be a pure function of time, so renders are deterministic.
-4. Render a draft. Extract frames at fixed times and check them: text is readable, nothing overflows, motion exists.
-5. Fix problems, then do the final render. Report the output path, duration and resolution.
+4. Run `npx hyperframes lint`, then `npx hyperframes check --json`, and fix every error.
+5. Run `npx hyperframes snapshot --at <times>` and look at the PNGs yourself. `check` can pass while elements still overlap.
+6. Render a draft with `bash /home/user/KodVid/setup/render.sh --quality draft --output draft.mp4`.
+7. Fix problems, then render the final with `--quality delivery`. Report the output path, duration and resolution.
+
+## Sandbox rules (from a real test run)
+
+- **Always render through `setup/render.sh`.** `/tmp` is a small memory disk and renders fail with "Low disk space" without it.
+- **Expect about 2x real time.** There is no GPU. A 60 second video takes about 2 minutes. Commands time out after 30 minutes, so run longer renders in the background and poll the log.
+- **If a render crashes on memory**, retry with `KODVID_WORKERS=1`.
+- **Narration:** make speech with your own text-to-speech tool. To add it to a video, never use `-shortest`, because it cuts the video to the audio length. Use `-af apad -t <video seconds>` instead, or match the video length to the audio.
+- **Generated images** may not match the requested size. Scale them with `ffmpeg -vf scale=W:H:flags=lanczos`.
+- **Preview** runs on localhost inside the sandbox and the user cannot open it. Deliver the MP4 file, or upload it to Drive and share the link.
 
 ## Safety rules
 
