@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
 # HyperFrames render sarmalayicisi. Proje klasorunun icinden calistirin.
-# - Gecici dosyalari kucuk /tmp yerine ana diske yazar (TMPDIR)
-# - Node'u KodVid kurulumundan alir
+# - Gecici dosyalari kucuk /tmp ve kotali /home/user yerine /opt/kodvid altina yazar
 # - Bellek yetersizse KODVID_WORKERS=1 ile tekrar deneyin
 # Kullanim: bash /home/user/KodVid/setup/render.sh --quality draft --output out.mp4
 set -uo pipefail
-export PATH="${KV_HOME:-$HOME/.kodvid}/node/bin:$PATH"
-export TMPDIR="$HOME/.tmp"; mkdir -p "$TMPDIR"
+. "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/env.sh"
 WORKERS="${KODVID_WORKERS:-auto}"
 npx -y hyperframes render --workers "$WORKERS" "$@"
 STATUS=$?

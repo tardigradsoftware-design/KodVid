@@ -5,16 +5,27 @@ Read this file first. Load other files only when the task needs them.
 
 ## Session start
 
-The sandbox can reset at any time. Files under `/home/user` survive; system packages do not.
-Run this at the start of every session, and again if `node`, `ffmpeg` or Chrome stops working:
+The sandbox can reset at any time. Files under `/home/user` survive but count toward a small storage quota.
+System folders such as `/opt` do not survive, but do not count toward the quota.
+So KodVid keeps the repo, Node, Chrome and render temp files in `/opt/kodvid`, and `/home/user/KodVid` is only a link.
+
+Run this at the start of every session, and again if `node`, `ffmpeg`, Chrome or `/home/user/KodVid` stops working:
 
 ```bash
-cd /home/user && ([ -d KodVid ] && git -C KodVid pull -q || git clone -q --depth 1 https://github.com/tardigradsoftware-design/KodVid.git)
-bash /home/user/KodVid/setup/bootstrap.sh
-export PATH="$HOME/.kodvid/node/bin:$PATH" TMPDIR="$HOME/.tmp"
+sudo -n mkdir -p /opt/kodvid && sudo -n chown "$(id -u):$(id -g)" /opt/kodvid
+git -C /opt/kodvid/repo pull -q 2>/dev/null || { git clone -q --depth 1 --filter=blob:none --sparse https://github.com/tardigradsoftware-design/KodVid.git /opt/kodvid/repo && git -C /opt/kodvid/repo sparse-checkout set setup catalog/index; }
+bash /opt/kodvid/repo/setup/bootstrap.sh
 ```
 
 Do not render until the script prints `HAZIR`.
+Shell variables do not carry over between your commands, so start every command with:
+
+```bash
+source /home/user/KodVid/setup/env.sh && <your command>
+```
+
+Keep your own video projects small. Put large downloaded media in `/opt/kodvid/tmp`, not in `/home/user`.
+Copy only the final MP4 to `/home/user` when you deliver it.
 
 ## How to find a skill
 
@@ -23,8 +34,12 @@ Do not read `catalog/skills.json` whole. It is too large for your context.
 1. Open `catalog/index/README.md`. It lists one small file per engine.
 2. Open the file for your engine, for example `catalog/index/hyperframes.md`.
 3. Pick 1 to 3 skills whose description matches the task.
-4. Read `SKILL.md` in that skill's folder. Then read only the files that `SKILL.md` points to.
-5. Follow the skill. If two skills disagree, the more specific one wins.
+4. The repo is downloaded partially to save files. Fetch the skill folder first:
+   `git -C /opt/kodvid/repo sparse-checkout add <folder from the index>`
+5. Read `SKILL.md` in that skill's folder. Then read only the files that `SKILL.md` points to.
+6. Follow the skill. If two skills disagree, the more specific one wins.
+
+The `Start with` paths in the table below also need `sparse-checkout add` before you read them.
 
 Each index line shows the skill `kind`:
 - `skill`: a standard Agent Skill with a `SKILL.md`.
